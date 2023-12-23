@@ -1217,3 +1217,57 @@ http://212.95.48.53:2095/Xplus-1-ShIeglhJdi/GS6pB8hdHA/1178
 http://212.95.48.53:2095/Xplus-1-ShIeglhJdi/GS6pB8hdHA/1179
 #EXTINF:-1 tvg-id="" tvg-name="demp" tvg-logo="" group-title="demo",demp
 http://212.95.48.53:2095/movie/Xplus-1-ShIeglhJdi/GS6pB8hdHA/1097.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Cavaleiros do Zodiaco 3 24/7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2c/Logotipo_de_24_Horas_TVN.png" group-title="CANAIS 24 HORAS / 7 DIAS",Cavaleiros do Zodiaco 3 24/7
+http://178.162.193.239:8080/TouroVod-k4WPgVtWlt/p6dsicE25S/18409
+#EXTINF:-1 tvg-id="" tvg-name="Cavaleiros do Zodiaco 2 24/7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2c/Logotipo_de_24_Horas_TVN.png" group-title="CANAIS 24 HORAS / 7 DIAS",Cavaleiros do Zodiaco 2 24/7
+http://178.162.193.239:8080/TouroVod-k4WPgVtWlt/p6dsicE25S/18410
+#EXTINF:-1 tvg-id="" tvg-name="Cavaleiros do Zodiaco 1 24/7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2c/Logotipo_de_24_Horas_TVN.png" group-title="CANAIS 24 HORAS / 7 DIAS",Cavaleiros do Zodiaco 1 24/7
+http://178.162.193.239:8080/TouroVod-k4WPgVtWlt/p6dsicE25S/18411
+#EXTINF:-1 tvg-id="" tvg-name="Cascão A Turma da Monica 24/7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2c/Logotipo_de_24_Horas_TVN.png" group-title="CANAIS 24 HORAS / 7 DIAS",Cascão A Turma da Monica 24/7
+http://178.162.193.239:8080/TouroVod-k4WPgVtWlt/p6dsicE25S/18412
+#EXTINF:-1 tvg-id="" tvg-name="Caillou 24/7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2c/Logotipo_de_24_Horas_TVN.png" group-title="CANAIS 24 HORAS / 7 DIAS",Caillou 24/7
+http://178.162.193.239:8080/TouroVod-k4WPgVtWlt/p6dsicE25S/18413
+#EXTINF:-1 tvg-id="" tvg-name="Booba 2 24/7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2c/Logotipo_de_24_Horas_TVN.png" group-title="CANAIS 24 HORAS / 7 DIAS",Booba 2 24/7
+http://178.162.193.239:8080/TouroVod-k4WPgVtWlt/p6dsicE25S/18414
+#EXTINF:-1 tvg-id="" tvg-name="Booba 1 24/7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2c/Logotipo_de_24_Horas_TVN.png" group-title="CANAIS 24 HORAS / 7 DIAS",Booba 1 24/7
+http://178.162.193.239:8080/TouroVod-k4WPgVtWlt/p6dsicE25S/18415
+#EXTINF:-1 tvg-id="" tvg-name="Bob Zoom 2 24/7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2c/Logotipo_de_24_Horas_TVN.png" group-title="CANAIS 24 HORAS / 7 DIAS",Bob Zoom 2 24/7
+http://178.162.193.239:8080/TouroVod-k4WPgVtWlt/p6dsicE25S/18416
+#EXTINF:-1 tvg-id="" tvg-name="Bob Zoom 1 24/7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2c/Logotipo_de_24_Horas_TVN.png" group-title="CANAIS 24 HORAS / 7 DIAS",Bob Zoom 1 24/7
+http://178.162.193.239:8080/TouroVod-k4WPgVtWlt/p6dsicE25S/18417
+#EXTINF:-1 tvg-id="" tvg-name="Bob o Trem 2 24/7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2c/Logotipo_de_24_Horas_TVN.png" group-title="CANAIS 24 HORAS / 7 DIAS",Bob o Trem 2 24/7
+http://178.162.193.239:8080/TouroVod-k4WPgVtWlt/p6dsicE25S/18418
+#EXTINF:-1 tvg-id="" tvg-name="Bob o Trem 1 24/7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2c/Logotipo_de_24_Horas_TVN.png" group-title="CANAIS 24 HORAS / 7 DIAS",Bob o Trem 1 24/7
+http://178.162.193.239:8080/TouroVod-k4WPgVtWlt/p6dsicE25S/18419
+#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja 01 24/7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2c/Logotipo_de_24_Horas_TVN.png" group-title="CANAIS 24 HORAS / 7 DIAS",Bob Esponja 01 24/7
+http://178.162.193.239:8080/TouroVod-k4WPgVtWlt/p6dsicE25S/18420
+#EXTINF:-1 tvg-id="" tvg-name="Bita e os Animais 24/7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2c/Logotipo_de_24_Horas_TVN.png" group-title="CANAIS 24 HORAS / 7 DIAS",Bita e os Animais 24/7
+http://178.162.193.239:8080/TouroVod-k4WPgVtWlt/p6dsicE25S/18421
+#EXTINF:-1 tvg-id="" tvg-name="BEN 10 2 24/7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2c/Logotipo_de_24_Horas_TVN.png" group-title="CANAIS 24 HORAS / 7 DIAS",BEN 10 2 24/7
+http://178.162.193.239:8080/TouroVod-k4WPgVtWlt/p6dsicE25S/18422
+#EXTINF:-1 tvg-id="" tvg-name="BEN 10 1 24/7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2c/Logotipo_de_24_Horas_TVN.png" group-title="CANAIS 24 HORAS / 7 DIAS",BEN 10 1 24/7
+http://178.162.193.239:8080/TouroVod-k4WPgVtWlt/p6dsicE25S/18423
+#EXTINF:-1 tvg-id="" tvg-name="As Meninas Superpoderosas 24/7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2c/Logotipo_de_24_Horas_TVN.png" group-title="CANAIS 24 HORAS / 7 DIAS",As Meninas Superpoderosas 24/7
+http://178.162.193.239:8080/TouroVod-k4WPgVtWlt/p6dsicE25S/18424
+#EXTINF:-1 tvg-id="" tvg-name="As Aventuras do Batman 02 24/7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2c/Logotipo_de_24_Horas_TVN.png" group-title="CANAIS 24 HORAS / 7 DIAS",As Aventuras do Batman 02 24/7
+http://178.162.193.239:8080/TouroVod-k4WPgVtWlt/p6dsicE25S/18425
+#EXTINF:-1 tvg-id="" tvg-name="Cavaleiros do Zodiaco 4 24/7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2c/Logotipo_de_24_Horas_TVN.png" group-title="CANAIS 24 HORAS / 7 DIAS",Cavaleiros do Zodiaco 4 24/7
+http://178.162.193.239:8080/TouroVod-k4WPgVtWlt/p6dsicE25S/26995
+#EXTINF:-1 tvg-id="" tvg-name="Cavaleiros do Zodiaco 5 24/7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2c/Logotipo_de_24_Horas_TVN.png" group-title="CANAIS 24 HORAS / 7 DIAS",Cavaleiros do Zodiaco 5 24/7
+http://178.162.193.239:8080/TouroVod-k4WPgVtWlt/p6dsicE25S/26996
+#EXTINF:-1 tvg-id="" tvg-name="Cavaleiros do Zodiaco 6 24/7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2c/Logotipo_de_24_Horas_TVN.png" group-title="CANAIS 24 HORAS / 7 DIAS",Cavaleiros do Zodiaco 6 24/7
+http://178.162.193.239:8080/TouroVod-k4WPgVtWlt/p6dsicE25S/26997
+#EXTINF:-1 tvg-id="" tvg-name="Tom & Jerry  24/7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2c/Logotipo_de_24_Horas_TVN.png" group-title="CANAIS 24 HORAS / 7 DIAS",Tom & Jerry  24/7
+http://178.162.193.239:8080/TouroVod-k4WPgVtWlt/p6dsicE25S/26998
+#EXTINF:-1 tvg-id="" tvg-name="Earth movie" tvg-logo="https://e7.pngegg.com/pngimages/102/854/png-clipart-sky-girls-bw-haiti-logo-adolescence-sky-logo-love-album-thumbnail.png" group-title="CANAIS 24 HORAS / 7 DIAS",Earth movie
+http://178.162.193.239:8080/TouroVod-k4WPgVtWlt/p6dsicE25S/38715
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/Nuevo-logo-Sky-Airline.png" group-title="CINE SKY",CINE SKY 1 HD
+http://178.162.193.239:8080/TouroVod-k4WPgVtWlt/p6dsicE25S/103737
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/Nuevo-logo-Sky-Airline.png" group-title="CINE SKY",CINE SKY 2 HD
+http://178.162.193.239:8080/TouroVod-k4WPgVtWlt/p6dsicE25S/103738
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 3 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/Nuevo-logo-Sky-Airline.png" group-title="CINE SKY",CINE SKY 3 HD
+http://178.162.193.239:8080/TouroVod-k4WPgVtWlt/p6dsicE25S/103739
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 4 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/Nuevo-logo-Sky-Airline.png" group-title="CINE SKY",CINE SKY 4 HD
+http://178.162.193.239:8080/TouroVod-k4WPgVtWlt/p6dsicE25S/103740
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 5 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/Nuevo-logo-Sky-Airline.png" group-title="CINE SKY",CINE SKY 5 HD
+http://178.162.193.239:8080/TouroVod-k4WPgVtWlt/p6dsicE25S/103741
