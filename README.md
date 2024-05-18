@@ -17,6 +17,17 @@ https://www.youtube.com/channel/UCojJlqr-L9290l5D63SXTzg?view_as=public
 https://www.youtube.com/channel/UCojJlqr
  
 
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/Nuevo-logo-Sky-Airline.png" group-title="CINE SKY",CINE SKY 1 HD
+http://goal.hostingiscoremm9.xyz:2052/TouroVod-VeW4mnwgG8/3RxTG90GXe/103737
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/Nuevo-logo-Sky-Airline.png" group-title="CINE SKY",CINE SKY 2 HD
+http://goal.hostingiscoremm9.xyz:2052/TouroVod-VeW4mnwgG8/3RxTG90GXe/103738
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 3 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/Nuevo-logo-Sky-Airline.png" group-title="CINE SKY",CINE SKY 3 HD
+http://goal.hostingiscoremm9.xyz:2052/TouroVod-VeW4mnwgG8/3RxTG90GXe/103739
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 4 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/Nuevo-logo-Sky-Airline.png" group-title="CINE SKY",CINE SKY 4 HD
+http://goal.hostingiscoremm9.xyz:2052/TouroVod-VeW4mnwgG8/3RxTG90GXe/103740
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 5 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/Nuevo-logo-Sky-Airline.png" group-title="CINE SKY",CINE SKY 5 HD
+http://goal.hostingiscoremm9.xyz:2052/TouroVod-VeW4mnwgG8/3RxTG90GXe/103741
+
 #EXTINF:-1 tvg-id="58b2b0a13f424b344e401f10c71981fd" tvg-name="A&E 4K" tvg-logo="http://xplussport.com:8080/images/b84296644f07e05523cd844bc88db5fe.png" group-title="FILMES & SERIES",A&E 4K
 http://main.xplus2-main.xyz:2082/Tourobox1-rviCW90UyD/bA8ZZQx5uX/225
 #EXTINF:-1 tvg-id="AgroPlus.br" tvg-name="AGRO+ 4K" tvg-logo="https://agroemdia.com.br/wp-content/uploads/2020/06/agromais-band-logo.jpg" group-title="NOTICIAS",AGRO+ 4K
