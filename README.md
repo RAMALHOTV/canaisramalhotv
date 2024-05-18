@@ -13102,4 +13102,1270 @@ http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/15160
 http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/151608.mp4
 #EXTINF:-1 tvg-id="" tvg-name="A Força da Mulher (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8pyxBy0eWnCHUE5pKqninGs3c47.jpg" group-title="LANÇAMENTOS 2023",A Força da Mulher (2023)
 http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/151609.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Escolha de Amanda (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mojsnlsjaxsBAElNsFBFw7ev247.jpg" group-title="DRAMA",A Escolha de Amanda (2021)
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/151610.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Valle de sombras (2023) CAM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fM2lH05MjZx0iAXCbsWphOnS49O.jpg" group-title="NOS CINEMAS",Valle de sombras (2023) CAM
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/151611.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Quase Virgem (2005)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fJNJOmUBIGxTGY3ISN9MOFwlbb0.jpg" group-title=" COMÉDIA",Quase Virgem (2005)
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/151624.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Diário Mágico (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3bwV0lpKipUcY9sT3Xabndx57Eh.jpg" group-title="FANTASIA",O Diário Mágico (2018)
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/151625.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Despedida (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vlCNl5UIqNHxLI2tDNjyagzpRnD.jpg" group-title="DRAMA",A Despedida (2020)
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/151626.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Todos Menos Você (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tPx1HEiS5zd9mLvtb52YY66dkEO.jpg" group-title="LANÇAMENTOS 2023",Todos Menos Você (2023)
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/151682.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Pesadelo em Família (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/60lkuP2ADwljjqOPccjkAve88bM.jpg" group-title="TERROR",Pesadelo em Família (2020)
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/151683.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Jogando Sujo (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iXt5oRJynNWn7kb0TLaAhV6bkc0.jpg" group-title="AÇÃO",Jogando Sujo (2020)
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/151684.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Fúria Selvagem (1971)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rwIv0FzKwfYxpDYlkMOH3nb2wdj.jpg" group-title="FAROESTE",Fúria Selvagem (1971)
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/151713.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Na Trilha dos Apaches (1963)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/13hvuYmbwzEvWSNbA7uV4WWfywC.jpg" group-title="FAROESTE",Na Trilha dos Apaches (1963)
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/151714.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Jane Eyre (2011)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qW9wgyNohj8Ay2n6wY2dQF7yReN.jpg" group-title="DRAMA",Jane Eyre (2011)
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/151723.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Primer (2004) LEG" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xEoq2WmDzpzxhkHEsmOYOg6BPg6.jpg" group-title="FICÇÃO CIENTÍFICA ",Primer (2004) LEG
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/151724.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ben 10: Corrida Contra o Tempo (2008)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zTdYoROAO5T8IsUodUgrnceT3Y1.jpg" group-title="FAMÍLIA",Ben 10: Corrida Contra o Tempo (2008)
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/151725.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ben 10: O Segredo do Omnitrix (2007)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vPND6Qff1KVYAtjaQuZtij8wtAj.jpg" group-title="ANIMAÇÃO",Ben 10: O Segredo do Omnitrix (2007)
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/151726.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Agente Teen 2: Missão Londres (2004)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/t2DXSyrJ4TmyChZhSc5dFDiK5sV.jpg" group-title="AVENTURA",O Agente Teen 2: Missão Londres (2004)
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/151727.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Detetive Espacial Gavan - O Filme (2012)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4rE7nyxivlmr72rhmXOaHrQvHit.jpg" group-title="FAMÍLIA",Detetive Espacial Gavan - O Filme (2012)
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/151728.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Detetive Espacial Sharivan - A Nova Geração (2014) " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8d7upKEsFZHrNh5UP27ppXhDQFc.jpg" group-title="FAMÍLIA",Detetive Espacial Sharivan - A Nova Geração (2014) 
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/151729.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chaplin (1992)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fx1adkJmmwnKBkzgHJIiLLfJ2KM.jpg" group-title="DRAMA",Chaplin (1992)
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/151730.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Retorno dos Thundermans (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wEquopFw43QCKsBp1fpIabmGlYc.jpg" group-title="LANÇAMENTOS 2024",O Retorno dos Thundermans (2024)
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/151798.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mergulho Noturno (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/a2pyGSNdHBMcwI2a5OiCcaLHRoo.jpg" group-title="LANÇAMENTOS 2024",Mergulho Noturno (2024)
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/151799.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ricky Stanicky (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oJQdLfrpl4CQsHAKIxd3DJqYTVq.jpg" group-title="LANÇAMENTOS 2024",Ricky Stanicky (2024)
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/151800.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Pobres Criaturas (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/reIqVavL4QESfQIMT5PW8CvRH13.jpg" group-title="OSCAR 2024",Pobres Criaturas (2023)
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/151810.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Viciados em Amor (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aSg22mptplYO6K4aEJwZqSFGUX2.jpg" group-title="LANÇAMENTOS 2023",Viciados em Amor (2023)
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/151811.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Segredos de um Escândalo (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pjy5few09GsbbkjQRixEIChmZ7J.jpg" group-title="OSCAR 2024",Segredos de um Escândalo (2023)
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/151812.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Retrograde (2004)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9O7V4YN9WRxCeYCr7Hj9ZyU0jzs.jpg" group-title="FICÇÃO CIENTÍFICA ",Retrograde (2004)
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/151822.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Amityville 8 - A Casa Maldita (1996)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pPNjxj2MKDLQOFOzmsdOlmHJzz2.jpg" group-title="TERROR",Amityville 8 - A Casa Maldita (1996)
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/151831.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Última Noite (2002)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fALUwfVfkgkYoKDgdh7CbB7GRw0.jpg" group-title="CRIME",A Última Noite (2002)
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/151838.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Trilha de Corpos (1980)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/90rdztFCRAxQsEfy35cxH9qt3N1.jpg" group-title="TERROR",Trilha de Corpos (1980)
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/151839.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Casa da Escuridão (1981) LEG" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6ebCs7FLor0um97T41UULuXd5EM.jpg" group-title="TERROR",A Casa da Escuridão (1981) LEG
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/151840.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Notas Sobre um Escândalo (2006)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tJgksTrMchjLAwpUkuZj6AUKpZF.jpg" group-title="DRAMA",Notas Sobre um Escândalo (2006)
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/151841.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bolo de Limão com Sementes de Papoula (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1QJQ7QZBou9r6iE5bIcom1VFiPL.jpg" group-title="DRAMA",Bolo de Limão com Sementes de Papoula (2021)
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/151910.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bala na Cabeça (1990)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qpZDYAWI53CAhDQv25I5174NvER.jpg" group-title="CRIME",Bala na Cabeça (1990)
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/151914.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Casa de Areia e Névoa (2003)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mHz5hyw3ApK4bZ6adWXsL8cEV7X.jpg" group-title="DRAMA",Casa de Areia e Névoa (2003)
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/151917.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Brooklin: Um Amor Sem Fronteiras (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cs7W8j5lI7qzRW6tKSj9p1Q0Ze7.jpg" group-title="ROMANCE",Brooklin: Um Amor Sem Fronteiras (2015)
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/151918.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ed Wood (1994)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/n8SrO3WbyuY2b6KazogqbQF348C.jpg" group-title="HISTÓRIA",Ed Wood (1994)
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/151919.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Boa Noite e Boa Sorte. (2005)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vCSvnpvQ6XHsebAinb8EYLDxFYw.jpg" group-title="HISTÓRIA",Boa Noite e Boa Sorte. (2005)
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/151920.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Minúsculos: O Filme (2013)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zOoAoHhOcunlUsB4FXhbfwu52rT.jpg" group-title="ANIMAÇÃO",Minúsculos: O Filme (2013)
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/151924.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Jogada de Gênio (2008)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qQPv850VUbbTnikPGl6qNb7qgQW.jpg" group-title="DRAMA",Jogada de Gênio (2008)
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/151930.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Os Cinco Diabos (2022) LEG" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5J9VKYAvbE6ujHz2nGJ8Atf9v6j.jpg" group-title="DRAMA",Os Cinco Diabos (2022) LEG
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/151936.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Donzela (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ub4EHdVBVm3nHJiamU0gGcKS4ae.jpg" group-title="LANÇAMENTOS 2024",Donzela (2024)
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/151937.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Pesadelo (2005)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sKQ4P6G2GZQ8EclptpgaVBxASl8.jpg" group-title="TERROR",O Pesadelo (2005)
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/151938.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Pesadelo 2 (2007)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zPipazwBDK0qTD83vb3Ak6oqIh1.jpg" group-title="TERROR",O Pesadelo 2 (2007)
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/151939.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Filhos da Máfia (2001)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4Uw65jeeFOseIliXZEPrN2XlOnc.jpg" group-title="CRIME",Filhos da Máfia (2001)
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/151940.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Stargate: Linha do Tempo (2008) LEG" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vdL154n9IEyeHg6Z13hWZgtaGNq.jpg" group-title="FICÇÃO CIENTÍFICA ",Stargate: Linha do Tempo (2008) LEG
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/151943.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Stargate: A Arca da Verdade (2008) LEG" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xzKIuXIz56l6vxiYV02MmGUiqgz.jpg" group-title="FICÇÃO CIENTÍFICA ",Stargate: A Arca da Verdade (2008) LEG
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/151944.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Vidas Passadas (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6Drbr8CzD3MbNi0N6xbIgGkTcoP.jpg" group-title="OSCAR 2024",Vidas Passadas (2023)
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/151945.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Projeto Fantasma (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5OnTlcjY4e0WhWqTOuGFYXmkFKJ.jpg" group-title="LANÇAMENTOS 2023",Projeto Fantasma (2023)
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/151946.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Mestre da Fumaça (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vhh6XzbfO5pYTlkXvSqucmnlFIA.jpg" group-title="LANÇAMENTOS 2023",O Mestre da Fumaça (2023)
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/151947.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Vingança de Charlie (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9iSZAAIlvuKvvrGqKeCxAKeLfM5.jpg" group-title="LANÇAMENTOS 2023",A Vingança de Charlie (2023)
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/151948.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Assim Caminha a Humanidade (1956)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rxjmr0giX8l19XepjXZVoyL30lK.jpg" group-title="FAROESTE",Assim Caminha a Humanidade (1956)
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/151962.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ninja, a Máquina Assassina (1981)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oxWkiI5eNn2CB0Rm6doajBDMkPH.jpg" group-title="AÇÃO",Ninja, a Máquina Assassina (1981)
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/151963.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Os Picaretas (1999)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qFPxBGzg8i6bbVQxPwtMd3sCD8I.jpg" group-title=" COMÉDIA",Os Picaretas (1999)
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/151965.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Um Passo da Eternidade (1953)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/i6QXGhmrBskJav7KzGhwlqyx0t3.jpg" group-title="GUERRA",A Um Passo da Eternidade (1953)
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/152002.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Vida Secreta das Cheerleaders (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/d6BcUsrp1nRWxzbyogOCbC6D71F.jpg" group-title="MISTÉRIO",A Vida Secreta das Cheerleaders (2019)
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/152459.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Manual Para Um Assassinato (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cpLxtXqbn01CvpYD4tMFgeMfse1.jpg" group-title="LANÇAMENTOS 2023",Manual Para Um Assassinato (2023)
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/152460.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Perigo Extremo (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kIhj1QIrQgIJlnqZCe5PHhTOhyS.jpg" group-title="AÇÃO",Perigo Extremo (2015)
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/152471.mp4
+#EXTINF:-1 tvg-id="" tvg-name="As Criaturas Atrás das Paredes (1991)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9LYK8I9ClLtyrcwnR2612VkCDDO.jpg" group-title="TERROR",As Criaturas Atrás das Paredes (1991)
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/152472.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Los Angeles: Cidade Proibida (1997)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yCzn6ZNhYjCBIin58TePBco64rC.jpg" group-title="MISTÉRIO",Los Angeles: Cidade Proibida (1997)
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/152473.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ou Tudo, Ou Nada (1997)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/q3UByU9dXoDCXbu6IOh4Js9PCG8.jpg" group-title=" COMÉDIA",Ou Tudo, Ou Nada (1997)
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/152474.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Donnie Brasco (1997)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xtKLvpOfARi1XVm8u2FTdhY5Piq.jpg" group-title="CRIME",Donnie Brasco (1997)
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/152475.mkv
+#EXTINF:-1 tvg-id="" tvg-name="A Princesa e o Feitiço do Tempo (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ywzbF5YSBfZ7XqcGO9YR6Gy4VFt.jpg" group-title="FAMÍLIA",A Princesa e o Feitiço do Tempo (2022)
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/152484.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Um Tiro de Misericórdia (1990)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2x9lUggBv4ZZch1Dya8fklz8a8D.jpg" group-title="CRIME",Um Tiro de Misericórdia (1990)
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/152485.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Professora de Piano (2001) LEG" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/q4ZMM6l77I7KTTilYl5K99oZ1qL.jpg" group-title="DRAMA",A Professora de Piano (2001) LEG
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/152486.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Vídeo de Benny (1992) LEG" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/w21dPYUIM2t8amHFHvoptMfiDV2.jpg" group-title="CRIME",O Vídeo de Benny (1992) LEG
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/152487.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Só no Sertão (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bZDZT5aHYbTR6dk5KWze3PdVGCv.jpg" group-title="LANÇAMENTOS 2024",Só no Sertão (2024)
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/152522.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Garota Misteriosa (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9b628PfbxwthMNYDdayNnB4mKnV.jpg" group-title="MISTÉRIO",A Garota Misteriosa (2020)
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/152523.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Arte de Amar (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8B5kcNrZUocXZMG80NWhroz94mf.jpg" group-title="LANÇAMENTOS 2024",A Arte de Amar (2024)
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/152524.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Garoto de Vidro (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xaXZJTPSTi2NVRbMRppgp8cFyPP.jpg" group-title="DRAMA",O Garoto de Vidro (2020)
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/152533.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mundo Cão (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iIk9Q09V2hOyRJBPwE3VpN5FEnx.jpg" group-title="FICÇÃO CIENTÍFICA ",Mundo Cão (2021)
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/152534.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Muito Mais que o Esperado (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ia6OLdn2Nz2JPu6wQnrq9KOWn1M.jpg" group-title="DRAMA",Muito Mais que o Esperado (2021)
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/152535.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Lenda de Kate Kensington (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nED68YwqcGJ2iMu9c0WBPS2T4tC.jpg" group-title="DRAMA",A Lenda de Kate Kensington (2022)
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/152536.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Herança (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bNcN6hn5MSJ0Bwl7tdWNku7JD6D.jpg" group-title="TERROR",A Herança (2020)
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/152537.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Taking the Plunge (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p9ReYegyEB2YgkuPMUqysyigWDZ.jpg" group-title="ANIMAÇÃO",Taking the Plunge (2015)
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/152538.mp4
+#EXTINF:-1 tvg-id="" tvg-name="24 Horas com Gaspar (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yghjKgbzo7MSVoL6EVXCMQ0ZIzX.jpg" group-title="LANÇAMENTOS 2023",24 Horas com Gaspar (2023)
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/152539.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Megalomaniac (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iKADO87fy9nYIaq5NiEwYdKMN5S.jpg" group-title="LANÇAMENTOS 2023",Megalomaniac (2023)
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/152546.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Pu-239 (2006)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fRyusBzphrpoEfMNff0jlR0ulQ6.jpg" group-title="DRAMA",Pu-239 (2006)
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/152547.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Um Pesadelo De Vizinha (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/udZ8rxk05kLiIvtjt9y18zcXabD.jpg" group-title="MISTÉRIO",Um Pesadelo De Vizinha (2020)
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/152548.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Pedido Irlandês (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/v4Bb70dpIIQoEnZAHnm3nzCPauU.jpg" group-title="LANÇAMENTOS 2024",Pedido Irlandês (2024)
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/152553.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Madame Teia (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zWEm5oy2tE9ku1KSNM089FmZJ2p.jpg" group-title="LANÇAMENTOS 2024",Madame Teia (2024)
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/152554.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Déjà Vu - O Primeiro Ano do "Novo" Governo Lula" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1ESbIOki2zEDCYeYmdySdRTZvau.jpg" group-title="BRASIL PARALELO",Déjà Vu - O Primeiro Ano do "Novo" Governo Lula
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/152555.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Assassinato de Elite (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/joU5VihgUvkhyPnhzxfjmWk32rd.jpg" group-title="LANÇAMENTOS 2024",Assassinato de Elite (2024)
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/152574.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Livro de Clarence (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hZuq34U1dWuIIWgTa6wZNPeDinS.jpg" group-title="LANÇAMENTOS 2024",O Livro de Clarence (2024)
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/152635.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Psicopata Americano 2 (2002)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5d3C3ur7lahibP5PyUkvtsD8AOn.jpg" group-title="TERROR",Psicopata Americano 2 (2002)
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/152636.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Homem com Punhos de Ferro (2012)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4KzlFgE0HYNmekGxSEg10RfDDq4.jpg" group-title="AÇÃO",O Homem com Punhos de Ferro (2012)
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/152637.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Homem com Punhos de Ferro 2 (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iC5gUr1YoqfAjz2xLGhlndFuqDk.jpg" group-title="AÇÃO",O Homem com Punhos de Ferro 2 (2015)
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/152638.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Boa Noite (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uuLiWtUr9ruSF6hxp3BrqIC0KLM.jpg" group-title="DOCUMENTÁRIOS",Boa Noite (2019)
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/152732.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Gato Galáctico e o feitiço do tempo (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fclsxjx6rSnEhO2LYjGZXCalOBn.jpg" group-title="LANÇAMENTOS 2024",Gato Galáctico e o feitiço do tempo (2024)
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/152742.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Cão e Gato (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ybyw7zxpBSdD98pIHfgujzhHoXS.jpg" group-title="LANÇAMENTOS 2024",Cão e Gato (2024)
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/152743.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Informante (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p3MqxGqMdq4eqzWN6H7ugEdYv1W.jpg" group-title="LANÇAMENTOS 2023",Informante (2023)
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/152799.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Stopmotion (2024) LEG" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kWzWZEctPcZ0dATbtcYy6lIJgGj.jpg" group-title="LANÇAMENTOS 2024",Stopmotion (2024) LEG
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/152815.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Informers - Geração Perdida (2008)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dCEfFcgt2TJcVR0IFpWZDPccWXN.jpg" group-title="CRIME",Informers - Geração Perdida (2008)
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/152816.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Anna: O Perigo Tem Nome (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/itUXQRTYJYDM5vwJFDWKb0uxqoC.jpg" group-title="AÇÃO",Anna: O Perigo Tem Nome (2019)
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/152833.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Lados Opostos (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4LLBtwwAqMfou51XQax0Axr2dSo.jpg" group-title="GUERRA",Lados Opostos (2021)
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/152866.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Os 5 Odiados (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dEkG6vEVTLIDyujEbgUc3DrXngf.jpg" group-title="GUERRA",Os 5 Odiados (2019)
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/152867.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Delicatessen (1991)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/75qcR7lvj6TFNzYQ4MSXD6dBwpv.jpg" group-title="FICÇÃO CIENTÍFICA ",Delicatessen (1991)
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/152904.mp4
+#EXTINF:-1 tvg-id="" tvg-name="E Sua Mãe Também (2001) LEG" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/djnugJE2oyZ5kxygouhpIA1po9V.jpg" group-title="DRAMA",E Sua Mãe Também (2001) LEG
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/152905.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Aprendiz (1998)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tk2Y2NOYOBUyJ0aUqZDm35HXTSP.jpg" group-title="MISTÉRIO",O Aprendiz (1998)
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/152906.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Encontros Casuais (2013)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lEpom1pvXHzoy9QBCKfZ70KyVO.jpg" group-title=" COMÉDIA",Encontros Casuais (2013)
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/152907.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Young Royals Forever (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4a9L3fjhdhiNdim1h5TYw2DIhEC.jpg" group-title="LANÇAMENTOS 2024",Young Royals Forever (2024)
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/152908.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Drive My Car (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/z9QqfYRtYS3VqIsWkD09hpilyQ3.jpg" group-title="DRAMA",Drive My Car (2021)
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/152909.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bob Marley: One Love (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mKWalirPreEdCKDJjc5TKeOP2xi.jpg" group-title="LANÇAMENTOS 2024",Bob Marley: One Love (2024)
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/152910.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Uma Relação Delicada (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kL6Delnmr7RG0Fetgnxb49WMPMQ.jpg" group-title="DRAMA",Uma Relação Delicada (2020)
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/152953.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Festival Sangrento (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oglP0iKN7PXXzPny7jEuPqHIczg.jpg" group-title="TERROR",Festival Sangrento (2018)
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/152957.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Horror Sangrento (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oijfCGUjtLogKpcOyK7KZnxaKXi.jpg" group-title="TERROR",Horror Sangrento (2019)
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/152958.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Manobra Super Radical (1993)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/A6zQcU1icqKukWBgBG4DhzxZ0JT.jpg" group-title="AVENTURA",Manobra Super Radical (1993)
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/152959.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ted Bundy: Mente Assassina (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oyfiB4AIQVOKSv2IJcvsNF5wrV.jpg" group-title="CRIME",Ted Bundy: Mente Assassina (2021)
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/152982.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Os Rejeitados (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ek4FmIkKlH30xthKs2ANqrV7SOI.jpg" group-title="OSCAR 2024",Os Rejeitados (2023)
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/152995.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Vozes do Além (2005)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8G5OKXjO5iQkuHAgysWRV1bUs1R.jpg" group-title="TERROR",Vozes do Além (2005)
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/152997.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Revelação (2000)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qntuw73B4YOwmHnriFDMZKiR7Li.jpg" group-title="TERROR",Revelação (2000)
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/153032.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Anatomia de uma Queda (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/woXYl0DJTx6TsfYWPkSfNHTsoOx.jpg" group-title="OSCAR 2024",Anatomia de uma Queda (2023)
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/153046.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Trilha de Vingança (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/spddh0y6VMwMyDFFAe6NlDxZY3K.jpg" group-title="FAROESTE",Trilha de Vingança (2019)
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/153047.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Viagem Sombria (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xvgsSC4PZvT2JPbhIVCHfewmie8.jpg" group-title="LANÇAMENTOS 2023",Viagem Sombria (2023)
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/153048.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Matador de Aluguel (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hWqDso6opPI0tLKhGsXGxxZDCHT.jpg" group-title="LANÇAMENTOS 2024",Matador de Aluguel (2024)
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/153049.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Cachorro que Salvou a Páscoa (2014)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7qgwVkQEH8ua2MRQOdpkG7s2sfr.jpg" group-title="FAMÍLIA",O Cachorro que Salvou a Páscoa (2014)
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/153052.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Pedro Coelho (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/f9Yp41eDDrx4HxFKW8vt9xKPobB.jpg" group-title="FAMÍLIA",Pedro Coelho (2018)
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/153053.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Hop: Rebelde Sem Páscoa (2011)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9C4lCayKoFB6hwVvgalz6rtcyOn.jpg" group-title="FAMÍLIA",Hop: Rebelde Sem Páscoa (2011)
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/153054.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Kickboxer 3: A Arte da Guerra (1992)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6Bkul5qft7BFHoHaPEs7ojx5Kr4.jpg" group-title="AÇÃO",Kickboxer 3: A Arte da Guerra (1992)
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/153124.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Um Estranho Entre Nós (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dWj8Wef74QjRouV9OFhtmGCmqDw.jpg" group-title="LANÇAMENTOS 2023",Um Estranho Entre Nós (2023)
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/153127.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Tenha Um Bom Luto (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aaU3NcLJzC1SO9o2hAsosq4Q266.jpg" group-title=" COMÉDIA",Tenha Um Bom Luto (2022)
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/153128.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Shirley para Presidente (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uyWRPpB3ZNyvkJZiukd6fmjsB6g.jpg" group-title="LANÇAMENTOS 2024",Shirley para Presidente (2024)
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/153129.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Pilotos de Combate (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eG4kXMzVqOUuker4pQtJD5DMsk7.jpg" group-title="LANÇAMENTOS 2024",Pilotos de Combate (2024)
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/153130.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Diário da Minha Vagina (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aIVu5nMOCNZvOYs3Uhv8TnLvcYk.jpg" group-title="LANÇAMENTOS 2024",Diário da Minha Vagina (2024)
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/153131.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Como Impedir um Casamento (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/Si2ysoqiCmlm1e9eQECHudxYEh.jpg" group-title=" COMÉDIA",Como Impedir um Casamento (2021)
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/153132.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Marginal (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xSVRiLvaEGo6Wxsi52YtKMMx3vM.jpg" group-title="LANÇAMENTOS 2023",A Marginal (2023)
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/153133.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Debaixo do Píer (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cc8hlSJTcbkgW1VbejYcgizqgbv.jpg" group-title="LANÇAMENTOS 2023",Debaixo do Píer (2023)
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/153134.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Além da Vida (2009)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/miEZN9iocT8K7baPg8DR2492rm3.jpg" group-title="TERROR",Além da Vida (2009)
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/153137.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Assalto sobre Trilhos (1995)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/g0ZcQL4stFhW7fAJrEaEYTxLEdE.jpg" group-title="AÇÃO",Assalto sobre Trilhos (1995)
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/153138.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Os Casagrandes: O Filme (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yRD3xPQuEbANBcSWiEfiydKQRkz.jpg" group-title="LANÇAMENTOS 2024",Os Casagrandes: O Filme (2024)
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/153194.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Origin (2023) LEG" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/l3CG9YMfRywp6FyrYpkZS4lThWM.jpg" group-title="LANÇAMENTOS 2023",Origin (2023) LEG
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/153195.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Frida (2024) LEG" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2ArWjhsbLW0K4ThJKS9L7ioQmFB.jpg" group-title="LANÇAMENTOS 2024",Frida (2024) LEG
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/153196.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mega Pítons vs Jacarés Gigantes (2011)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7LNC320qZn3lipN227RP3USuCup.jpg" group-title="FICÇÃO CIENTÍFICA ",Mega Pítons vs Jacarés Gigantes (2011)
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/153206.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Infectados (2013)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dxqwma5Ds2UYhTwi0btsE2qSbVa.jpg" group-title="TERROR",Infectados (2013)
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/153207.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Sol de Cada Manhã (2005) LEG" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fJsyaYzcBeKEXKtinwXSAjwvInj.jpg" group-title="DRAMA",O Sol de Cada Manhã (2005) LEG
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/153213.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Crimes Ocultos (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4SLbUr8qlbODbiuuyixpy8rytTb.jpg" group-title="CRIME",Crimes Ocultos (2015)
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/153220.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Noite Pertence aos Amantes (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ckkonQaz7CWJSueM15ncHmGt6PM.jpg" group-title="ROMANCE",A Noite Pertence aos Amantes (2021)
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/153222.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Quando Encontrei Você (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9sDdAfhbN5C0tOnQx3qU6d6eAoy.jpg" group-title="ROMANCE",Quando Encontrei Você (2021)
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/153226.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Nós Nunca Teremos Paris (2014)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/56S6yqyRbfjZ6tDZFBG2SwRhRNn.jpg" group-title=" COMÉDIA",Nós Nunca Teremos Paris (2014)
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/153229.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Race for Glory: Audi vs Lancia (2024) LEG" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ovoybG8mCn6nQ6i5WoC8DdR08c2.jpg" group-title="LANÇAMENTOS 2024",Race for Glory: Audi vs Lancia (2024) LEG
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/153236.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Invasão Final (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/72B0zYm88mujhcn3wzLFCRKD80k.jpg" group-title="FICÇÃO CIENTÍFICA ",Invasão Final (2021)
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/153241.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mãe de Aluguel (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/de9xsSD1fLOJs8B1il2DZ9cQS7j.jpg" group-title="DRAMA",Mãe de Aluguel (2021)
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/153268.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Guaxinins Assassinos: Armados Até os Dentes (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dTlu1ndJPkiS7TBqS6e0Yvdor3y.jpg" group-title=" COMÉDIA",Guaxinins Assassinos: Armados Até os Dentes (2019)
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/153269.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Menina Má.Com (2005)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tfVrDp9BxbGmh5gpdjaseqGdie.jpg" group-title="MISTÉRIO",Menina Má.Com (2005)
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/153284.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Mansão do Inferno (1980) LEG" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bJL2hyaKKHQtguipNPJfcKGTnhh.jpg" group-title="TERROR",A Mansão do Inferno (1980) LEG
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/153285.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Base - Desafiando o Perigo (1999)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/90kbLBibMIkEPF0kpZkN5BND1Br.jpg" group-title="AÇÃO",A Base - Desafiando o Perigo (1999)
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/153294.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Matadores de Canibais (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kaJEMqoKcH0c64FHOeyT4NWyGNA.jpg" group-title="TERROR",Matadores de Canibais (2017)
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/153295.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Apache Junction – Cidade Sem Lei (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/A9K2LeeXnVIvtd6LworYwXNpp3v.jpg" group-title="FAROESTE",Apache Junction – Cidade Sem Lei (2021)
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/153296.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Retrato de um Campeão (2021) LEG" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1MjkRSvj82oFAeFtvXp9FlKASnb.jpg" group-title="DRAMA",Retrato de um Campeão (2021) LEG
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/153297.mp4
+#EXTINF:-1 tvg-id="" tvg-name="When You're Strange (2010) LEG" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yd5X8f1mt13ETAWLI7dp0MEEZLL.jpg" group-title="DOCUMENTÁRIOS",When You're Strange (2010) LEG
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/153299.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Os Farofeiros 2 (2024) CAM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/io2pxaMQNyBJ7QQSGWXjFVqLDCP.jpg" group-title="NOS CINEMAS",Os Farofeiros 2 (2024) CAM
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/153314.mp4
+#EXTINF:-1 tvg-id="" tvg-name="De Mãos Atadas (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6VATA27N5XyMEyFGjLrYuAiltEt.jpg" group-title=" COMÉDIA",De Mãos Atadas (2022)
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/153316.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Refém - Atentado em Madri (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aDx49ejZlYewu89zn16JN7pMFeP.jpg" group-title="LANÇAMENTOS 2023",O Refém - Atentado em Madri (2023)
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/153319.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Room (2003) LEG" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oGI3QSsY4XsmUzuNYUQBQDdjuaP.jpg" group-title="DRAMA",The Room (2003) LEG
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/153332.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Moisés (1995)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u0S5RmtTvSvxgzEicJwh698qq4i.jpg" group-title="GOSPEL",Moisés (1995)
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/153351.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Meu Sobrinho é um Terror (1994)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/Agm7rlBmCuLWc9TQ9TNap77RDBh.jpg" group-title=" COMÉDIA",Meu Sobrinho é um Terror (1994)
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/153353.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Divina Ira (1972)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7v59ag4DhRzPL9jyVZI2RiHJPPc.jpg" group-title="FAROESTE",A Divina Ira (1972)
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/153354.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Código Desconhecido (2000) LEG" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/82dqaccSO4hpFPq80USkT6HS9Mz.jpg" group-title="DRAMA",Código Desconhecido (2000) LEG
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/153365.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Sétimo Continente (1989) LEG" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4MnJ6iqDWHz28cLkRC4OoS5hmGC.jpg" group-title="DRAMA",O Sétimo Continente (1989) LEG
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/153366.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Fixação (2002)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xxquLUawTYdFl8HWMyq6w7YTIg.jpg" group-title="MISTÉRIO",Fixação (2002)
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/153367.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ressurreição - Retalhos de Um Crime (1999)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5JdRH9xymK7pzE5ODIVqwp7lvoF.jpg" group-title="TERROR",Ressurreição - Retalhos de Um Crime (1999)
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/153370.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Uma Nova Educação (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/g8qln0DJWgUiFLWIA2uS4VAprWC.jpg" group-title=" COMÉDIA",Uma Nova Educação (2022)
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/153376.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Les chambres rouges (2023) LEG" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iXk5ZR5yFUtEfcuIIVxxesr9Wjc.jpg" group-title="LANÇAMENTOS 2023",Les chambres rouges (2023) LEG
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/153397.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Trair e Coçar é Só Começar (2006)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dq34y6qLCtt8VjhOh0tpsWrOCNN.jpg" group-title="NACIONAIS",Trair e Coçar é Só Começar (2006)
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/153412.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Menino e a Garça (2023) LEG" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dYwihSnQmCVuIQbuG9n18BK5Iqd.jpg" group-title="OSCAR 2024",O Menino e a Garça (2023) LEG
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/153413.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Gump - Uma Lição de Vida (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zG9ZQTyt2EiBNYyeJG4f1lsEyd3.jpg" group-title="FAMÍLIA",Gump - Uma Lição de Vida (2021)
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/153414.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Férias a Todo Custo (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/v781B5tXTizzKtzXcbmibGgWIDg.jpg" group-title=" COMÉDIA",Férias a Todo Custo (2020)
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/153415.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Consequências (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lez1BYutROwBDo1NCcp0pISSAM9.jpg" group-title="DRAMA",Consequências (2021)
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/153416.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Represália! (1956)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xq2m8hCxEe9waxyuQM54huCtmYV.jpg" group-title="FAROESTE",Represália! (1956)
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/153461.mp4
+#EXTINF:-1 tvg-id="" tvg-name="E Depois? (2024) LEG" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3U75VOurucuDos1pHQTZJDeJr2r.jpg" group-title="LANÇAMENTOS 2024",E Depois? (2024) LEG
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/153462.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Ilha Vermelha (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5nigCzkT9LiOoLfGgnLWqehDy4A.jpg" group-title="TERROR",Ilha Vermelha (2018)
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/153463.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Caverna (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2RV6aJqBztmkL0faL1aQsowtkPt.jpg" group-title="FICÇÃO CIENTÍFICA ",A Caverna (2017)
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/153464.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Uma Paixão Ardente (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qaWpInqafTmmAIEteJ4q71hCep4.jpg" group-title="MISTÉRIO",Uma Paixão Ardente (2022)
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/153479.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Selvagem (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dQNv9SPXzbl0ZfTVSfhFuT5EQIK.jpg" group-title="NACIONAIS",Selvagem (2020)
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/153480.mp4
+#EXTINF:-1 tvg-id="" tvg-name="São Ateu (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rD4kjcAohpKi0i12R9J1IG4ejM8.jpg" group-title="NACIONAIS",São Ateu (2022)
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/153481.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Planeta Duna (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7MRtUoNmVvwE5NNOFo5YdRTPIx3.jpg" group-title="FICÇÃO CIENTÍFICA ",Planeta Duna (2021)
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/153482.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Perseguição Virtual (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6PI2QDSSTzCOPS0JdQnmh3UE1PS.jpg" group-title="MISTÉRIO",Perseguição Virtual (2021)
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/153483.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mutação (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qJ8EN7Vr8h7u1j19RdxIwp1JV45.jpg" group-title="TERROR",Mutação (2021)
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/153484.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ao Despertar da Paixão (1956)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kmxuxREFLJfmeJhv9CnoOZpKS7D.jpg" group-title="FAROESTE",Ao Despertar da Paixão (1956)
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/153512.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Renascido das Trevas (2009)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/i0nwhlyHPxz5THV3muyjZEiCFFC.jpg" group-title="TERROR",Renascido das Trevas (2009)
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/153521.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Tempestade sobre Washington (1962) LEG" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hdLQlarvUmZVtrbME6y4t6Km9ZC.jpg" group-title="DRAMA",Tempestade sobre Washington (1962) LEG
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/153522.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Estação Central de Cairo (1958) LEG" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ty32lDhKpU16x1Wg23cpdxjjHid.jpg" group-title="DRAMA",Estação Central de Cairo (1958) LEG
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/153523.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Portal do Paraíso (1980)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kW4Vk31nhtKPKGuYMaVATq3wcHC.jpg" group-title="FAROESTE",O Portal do Paraíso (1980)
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/153524.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Por Quem os Sinos Dobram (1943)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/j5tBLqs599srb0lryNZIlAWfWWy.jpg" group-title="HISTÓRIA",Por Quem os Sinos Dobram (1943)
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/153525.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Uma Família em Apuros (2012)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/heCyUwkAkXz0DRm91sEU8ZxDIIj.jpg" group-title=" COMÉDIA",Uma Família em Apuros (2012)
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/153529.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Bell Keeper (2023) LEG" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/m37w2WJrmEWnFSjyQylIYfYAzMj.jpg" group-title="LANÇAMENTOS 2023",The Bell Keeper (2023) LEG
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/153538.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Violência Explícita (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8QrzjL1RbLhFnDyUDflFbROHtii.jpg" group-title="TERROR",Violência Explícita (2020)
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/153565.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Um Jogo de Sedução (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/j7bBSUzJq9m6hGEVSqLmyq4ilUw.jpg" group-title="ROMANCE",Um Jogo de Sedução (2022)
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/153566.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sem Pressão (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jeIZsYZ109MELFf3bBPqyvTJpZ2.jpg" group-title="LANÇAMENTOS 2024",Sem Pressão (2024)
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/153567.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Rebeldes aos 16 (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4thWHJ0Z3BJMFp8ITYZllixLGfV.jpg" group-title=" COMÉDIA",Rebeldes aos 16 (2021)
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/153568.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Descanse em Paz (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/q3TFEdIpzNC609G0pEV6FOlHCAg.jpg" group-title="LANÇAMENTOS 2024",Descanse em Paz (2024)
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/153569.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Alma de Caçador (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/n726fdyL1dGwt15bY7Nj3XOXc4Q.jpg" group-title="LANÇAMENTOS 2024",Alma de Caçador (2024)
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/153570.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Salário do Medo (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8EJOSQ7LHFEFz4pwumYfIYWBRPY.jpg" group-title="LANÇAMENTOS 2024",O Salário do Medo (2024)
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/153571.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Jogo Bonito (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3Laz0p3Qg47vI2XIalpL2SlNUDI.jpg" group-title="LANÇAMENTOS 2024",Jogo Bonito (2024)
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/153593.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Os Homens Que Não Amavam as Mulheres (2009)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eeohfRbaxouY20Np6XdHjQDFsZH.jpg" group-title="MISTÉRIO",Os Homens Que Não Amavam as Mulheres (2009)
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/153594.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Chamado de Deus (2012)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kCfyg4XqLrmg8bjLoMly70Lcxjq.jpg" group-title="GOSPEL",O Chamado de Deus (2012)
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/153605.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Bruxa - Parte 2: A Colisão (2022) LEG" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cah6iIYQBctvCmBjsKGb1NCiygr.jpg" group-title="MISTÉRIO",A Bruxa - Parte 2: A Colisão (2022) LEG
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/153606.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Gota D'Água (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kDwBNiP3OIiTY5f1wLoYBOYAoUi.jpg" group-title="LANÇAMENTOS 2023",Gota D'Água (2023)
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/153616.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Projeto Legião (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8eA7rDWNWlzXfi3nEn5PuI58sue.jpg" group-title="FICÇÃO CIENTÍFICA ",Projeto Legião (2022)
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/153632.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Babá Diabólica (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gIjIyBYxemQzOz5ULXJQtpGZRLi.jpg" group-title="TERROR",Babá Diabólica (2016)
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/153633.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Chantagem 2 (2022) LEG" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wk8Vu0DI0MiNLaXXiVqAwjLRKL5.jpg" group-title="CRIME",A Chantagem 2 (2022) LEG
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/153654.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ladrão de Diamantes (2004)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xboAsy9Cywvt40qq5jxlUOPaHsh.jpg" group-title="AÇÃO",Ladrão de Diamantes (2004)
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/153656.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Zona de Interesse (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bZlZ1hcmP6KkZfXxXcNngaFzMcS.jpg" group-title="OSCAR 2024",Zona de Interesse (2023)
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/153657.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Megamente Vs. O Sindicato da Perdição (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/60x76Yb6nMPFwEZ3um5yhUwCga.jpg" group-title="LANÇAMENTOS 2024",Megamente Vs. O Sindicato da Perdição (2024)
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/153658.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Canil: Dog Pound (2010) LEG" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/h7PJmxdjxQ7KOcWIrqJIlWnRylx.jpg" group-title="DRAMA",O Canil: Dog Pound (2010) LEG
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/153659.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Uma Linda Condessa (1994) LEG" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1xrQNxqJ38cBQU4inuyZk3rjSg8.jpg" group-title="ROMANCE",Uma Linda Condessa (1994) LEG
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/153660.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Beck y (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9wqKF883Kn9c0SZV4ZmkIkFhBLh.jpg" group-title="TERROR",Beck y (2020)
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/153663.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Visões - Você Pode Me Ajudar? (2000)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yWfjFyAULHEczz1OEqaarCFSufc.jpg" group-title="TERROR",Visões - Você Pode Me Ajudar? (2000)
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/153666.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Visões 2: A Vingança dos Fantasmas (2005)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fI0OMlpiYFRPQj5gyGFmIzisrcg.jpg" group-title="TERROR",Visões 2: A Vingança dos Fantasmas (2005)
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/153667.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Heróico (2023) LEG" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tRD18JW9iKqmwkQKvzPYDQetRoI.jpg" group-title="LANÇAMENTOS 2023",Heróico (2023) LEG
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/153686.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ichi, o Assassino (2001)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hJPW8HAJNX2wsaqb0PQWsYThoTL.jpg" group-title="TERROR",Ichi, o Assassino (2001)
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/153687.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Espinhos (2008)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vfR4xSSGF2sws9c41aWdg3wqcqy.jpg" group-title="TERROR",Espinhos (2008)
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/153688.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Condessa Sangrenta (2015) LEG" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tjThLfQr6xEA2HO70qWT7vHFjOq.jpg" group-title="TERROR",A Condessa Sangrenta (2015) LEG
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/153744.mp4
+#EXTINF:-1 tvg-id="" tvg-name="(Re)Nascer (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qjjwYBk21klwdD86bxPro54qqaC.jpg" group-title="LANÇAMENTOS 2023",(Re)Nascer (2023)
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/153748.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Meu Nome Era Eileen (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/h71cz1w2xMN5rErxlB4LMnRVk5k.jpg" group-title="LANÇAMENTOS 2023",Meu Nome Era Eileen (2023)
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/153749.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Trauma (2017) LEG" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/e8BJI1OfZOaW6rHQtUXInxoHqFJ.jpg" group-title="TERROR",Trauma (2017) LEG
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/153758.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Caine Mutiny Court-Martial (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jii0CWMcjFmCfrTXsRyMuwjlNY3.jpg" group-title="LANÇAMENTOS 2023",The Caine Mutiny Court-Martial (2023)
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/153760.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Vingador Impiedoso (1950)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/szVFvCur0ZMpvu2wSICtZKxHmMq.jpg" group-title="FAROESTE",Vingador Impiedoso (1950)
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/153761.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Uma Amizade Verdadeira (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zMT7yII1NmRS3FIvuSkcNzf1jBG.jpg" group-title="FAMÍLIA",Uma Amizade Verdadeira (2015)
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/153831.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Wish: O Poder dos Desejos (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gNk5KbBx0dLKdWgW06DAIZcwO0v.jpg" group-title="LANÇAMENTOS 2023",Wish: O Poder dos Desejos (2023)
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/153837.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Wildcat - Prisioneira de Guerra (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oy16WaZVnjNU86kEUrSc9qPwsgK.jpg" group-title="MISTÉRIO",Wildcat - Prisioneira de Guerra (2021)
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/153838.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Tudo ou Nada (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sNUQVeU78lVomwC7bR8SyCRnjdg.jpg" group-title="TERROR",Tudo ou Nada (2021)
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/153839.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Imaginário: Brinquedo Diabólico (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cWmBAbqUIgn2Ysy513rqSYE0fYk.jpg" group-title="LANÇAMENTOS 2024",Imaginário: Brinquedo Diabólico (2024)
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/153840.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ecos do Passado (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zKfsrotIlbjas1g31e9lMTFMqeo.jpg" group-title="DRAMA",Ecos do Passado (2021)
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/153841.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Sala dos Professores (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tqoSts6QMQsSDpeuR21OzXUZLSJ.jpg" group-title="LANÇAMENTOS 2023",A Sala dos Professores (2023)
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/153842.mp4
+#EXTINF:-1 tvg-id="" tvg-name="As 4 Filhas de Olfa (2023) LEG" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oVqzDUHUY7cuTTprVlF8XPbo8Pg.jpg" group-title="OSCAR 2024",As 4 Filhas de Olfa (2023) LEG
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/153843.mp4
+#EXTINF:-1 tvg-id="" tvg-name="20 Dias em Mauripol (2023) LEG" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/21rFQUyP8SDJhWm6cpAbHdOL5f0.jpg" group-title="OSCAR 2024",20 Dias em Mauripol (2023) LEG
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/153844.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Memória Infinita (2023) LEG" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/v1Qebin5eJ1xpSycFBbx74ccaME.jpg" group-title="OSCAR 2024",A Memória Infinita (2023) LEG
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/153845.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Começo da Vida (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pVVWDrkbm49clF97ylqxfia7dLU.jpg" group-title="DOCUMENTÁRIOS",O Começo da Vida (2016)
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/153846.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Segredo da Caverna (1951)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/s6cuV5J7las4CbCHZnnE7icKmOA.jpg" group-title="FAROESTE",O Segredo da Caverna (1951)
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/153859.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Grande Ano (2011)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c4aTWNed2T6KFSTOpL9vDxpC2X0.jpg" group-title=" COMÉDIA",O Grande Ano (2011)
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/153860.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Minha Amiga Palma (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zSPMIVPsV25N2eww4AfE7JEHpOE.jpg" group-title="FAMÍLIA",Minha Amiga Palma (2021)
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/153875.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mergulho em uma Paixão (1991)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cgwiDmTNksZU7qeiWxtbJLUtZ6B.jpg" group-title="DISNEY+",Mergulho em uma Paixão (1991)
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/153876.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Negação (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fEssMNSSZG5X8sGVXwtV4CW6jUV.jpg" group-title="HISTÓRIA",Negação (2016)
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/153877.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Um Estranho Segredo (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6dSolFhaf5JOQjgwKCYnEoeJB8z.jpg" group-title="TERROR",Um Estranho Segredo (2021)
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/153878.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Música (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kUX5ourGUJDG0yvEeS3uooZS0dS.jpg" group-title="LANÇAMENTOS 2024",Música (2024)
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/153879.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mãe Terra (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qC54MsfnOMnQ8U9fsOONvNs7j7B.jpg" group-title="LANÇAMENTOS 2023",Mãe Terra (2023)
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/153880.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Eu Sou Maria (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gnlIchMogl6Y7eLbG1twmvxErc9.jpg" group-title="LANÇAMENTOS 2023",Eu Sou Maria (2023)
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/153881.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Escolha (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zJlrSiA7kVBjiOnWTKg2hDS6SfU.jpg" group-title="HISTÓRIA",A Escolha (2022)
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/153882.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Dança dos Pássaros (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ufi71bkr6WNAriSM8jmJkv0M50q.jpg" group-title="LANÇAMENTOS 2023",A Dança dos Pássaros (2023)
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/153883.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Fabricante de Lágrimas (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5TrO0maxnMYOEzsptA5D7uYOKr5.jpg" group-title="LANÇAMENTOS 2024",O Fabricante de Lágrimas (2024)
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/154026.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Uma Quase Dupla (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qRAOj1G4YWEmK3zDN4JlYFqaeWA.jpg" group-title="NACIONAIS",Uma Quase Dupla (2018)
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/154039.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mera Coincidência (1997)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kfZrvhNkqasM6g9c5H67X52Xhak.jpg" group-title=" COMÉDIA",Mera Coincidência (1997)
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/154043.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Assassino no Andar de Cima (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/op3xXMxFgC6jMB7mjuYVG7bnJt1.jpg" group-title="MISTÉRIO",Assassino no Andar de Cima (2017)
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/154357.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sua Alma Será Minha (2022) LEG" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rBuE76iVZObavtfWYJqvMdJMBnM.jpg" group-title="TERROR",Sua Alma Será Minha (2022) LEG
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/154358.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Grande Entrevista (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gLyqPpzgefEoLNwl5fJSeoVhSnJ.jpg" group-title="LANÇAMENTOS 2024",A Grande Entrevista (2024)
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/154360.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Agente X: A Última Missão (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aXbHAgNxlb8KfWDbpj1O4TNatkH.jpg" group-title="LANÇAMENTOS 2023",Agente X: A Última Missão (2023)
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/154361.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Como Conquistar o Billy Walsh (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5qcHcoJL3otMwJPKnbV5M3a1jQd.jpg" group-title="LANÇAMENTOS 2024",Como Conquistar o Billy Walsh (2024)
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/154362.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Perlimps (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/x0bOWJeJhnIqch1OrhEQPEaZXcy.jpg" group-title="LANÇAMENTOS 2023",Perlimps (2023)
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/154363.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Garota Artificial (2023) LEG" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6eS8Wl291XbJkI7V8JqxA0xGdYB.jpg" group-title="LANÇAMENTOS 2023",A Garota Artificial (2023) LEG
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/154383.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Rede Antissocial: Dos Memes ao Caos (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1vzxO1KcwbW7uPGabTxJ0HKmYUS.jpg" group-title="LANÇAMENTOS 2024",A Rede Antissocial: Dos Memes ao Caos (2024)
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/154402.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Aniversário Sangrento (1981)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hiJcDQVbQH456ZiLwmwUhtbYldJ.jpg" group-title="TERROR",Aniversário Sangrento (1981)
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/154411.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Tudo por um Pop Star (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8SAAmvqFqYgO5AjKQLrvy4RozDM.jpg" group-title="NACIONAIS",Tudo por um Pop Star (2018)
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/154481.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Metalocalypse: Army of the Doomstar (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fGc9HKeGKebC1RD7WPt0NYDONTo.jpg" group-title="LANÇAMENTOS 2023",Metalocalypse: Army of the Doomstar (2023)
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/154488.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Bruxa dos Mortos: Baghead (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hV1duOiPt8o4JxUltlSbYXMJehf.jpg" group-title="LANÇAMENTOS 2024",A Bruxa dos Mortos: Baghead (2024)
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/154489.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Homem do Ano (2003)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zdzIfr6sDzrIqgciyVLHom9qan6.jpg" group-title="NACIONAIS",O Homem do Ano (2003)
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/154497.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bróder (2010)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/s9dpx9p9h6mmhnBXVaqEuapVx7B.jpg" group-title="NACIONAIS",Bróder (2010)
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/154498.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Prontos Para Detonar (2000)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rGbMrCUh6eRiWKsHNf5kqgPoliZ.jpg" group-title=" COMÉDIA",Prontos Para Detonar (2000)
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/154499.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Espelho Tem Duas Faces (1996)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hV0ip5pD7swlG7WQczhNPoykTlL.jpg" group-title=" COMÉDIA",O Espelho Tem Duas Faces (1996)
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/154500.mp4
+#EXTINF:-1 tvg-id="" tvg-name="À Beira do Abismo (2012)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/y3TIOW2Ydoq54eXDGJprwu2cuGY.jpg" group-title="CRIME",À Beira do Abismo (2012)
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/154501.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Psicólogo (2009)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qlPYzSPCrgxYJGZp8vcttoQxqYz.jpg" group-title=" COMÉDIA",O Psicólogo (2009)
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/154502.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mestre dos Mares: O Lado Mais Distante do Mundo (2003)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3v61179ciXMpmyiJZmpqyCoV5us.jpg" group-title="GUERRA",Mestre dos Mares: O Lado Mais Distante do Mundo (2003)
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/154503.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Nova York, Eu Te Amo (2008)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uJ2TVrEXUPe4tKGoVkvCjbkxyGr.jpg" group-title="ROMANCE",Nova York, Eu Te Amo (2008)
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/154535.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Você Não Está Sozinha: A Luta Contra La Manada (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zidXrw6ztIrDjYsP3dHkHG43j2s.jpg" group-title="LANÇAMENTOS 2024",Você Não Está Sozinha: A Luta Contra La Manada (2024)
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/154536.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Velhas Chamas Nunca Morrem (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/g9CZpfP669eyLgFefANr3o9QyUj.jpg" group-title="MISTÉRIO",Velhas Chamas Nunca Morrem (2022)
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/154537.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sangue Frio (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7XIIFcDxSk6XqG9Rek6h9q6KU58.jpg" group-title="LANÇAMENTOS 2024",Sangue Frio (2024)
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/154538.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Jogo da Morte (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8q2cikxaMxzDIHYQ1EbxVIC3dQn.jpg" group-title="TERROR",O Jogo da Morte (2021)
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/154539.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Cunhado Serial Killer (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9CMMTffmuzaK8Lx8TBYk6qTTSyZ.jpg" group-title="LANÇAMENTOS 2023",Cunhado Serial Killer (2023)
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/154540.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Comprometido com a Morte (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/o2yWiKKE4kzIYRQLEiJdg2epzCS.jpg" group-title="LANÇAMENTOS 2023",Comprometido com a Morte (2023)
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/154541.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Treinado Para Matar (2021) LEG" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qmj0pt8wpvPTY251cvkK4zm9n8p.jpg" group-title="DRAMA",Treinado Para Matar (2021) LEG
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/154588.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Kumiko, a Caçadora de Tesouros (2014) LEG" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8q9NauiyIECkNeJiufjzAbrq8Hq.jpg" group-title="DRAMA",Kumiko, a Caçadora de Tesouros (2014) LEG
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/154589.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Aconteceu Naquela Noite (1934)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2xQmVVitVLJJSaK3FN1d9ezs6D.jpg" group-title=" COMÉDIA",Aconteceu Naquela Noite (1934)
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/154611.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Primeira Noite de um Homem (1967)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fshlyfhsT2VwjqaReQ3gsbWMOfJ.jpg" group-title="DRAMA",A Primeira Noite de um Homem (1967)
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/154612.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Um Momento Para Recordar (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9bYhy2NctqeAnXTBFzD7PIMSWXU.jpg" group-title="ROMANCE",Um Momento Para Recordar (2021)
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/154616.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Closet (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gXSYeYlbx3XYHi9zeZdvjEKatTZ.jpg" group-title="TERROR",O Closet (2020)
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/154617.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Comando Imbatível (1990)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2hcfqAFyryc1pBSmvvGkFdW1ONZ.jpg" group-title="AÇÃO",Comando Imbatível (1990)
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/154645.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Pacto de Redenção (2024) LEG" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1jVlr869bV5ulcrJzqNlJs5KTMx.jpg" group-title="LANÇAMENTOS 2024",Pacto de Redenção (2024) LEG
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/154646.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Teia (2024) LEG" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ZmKvpPlJTh0ItvyP0ADvPiTdnz.jpg" group-title="LANÇAMENTOS 2024",A Teia (2024) LEG
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/154647.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Fuga Para A Liberdade (2016) LEG" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sEC7zZtCAlTj9t3wMKF7V8njU4H.jpg" group-title="AVENTURA",Fuga Para A Liberdade (2016) LEG
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/154648.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Heavy Metal: Universo em Fantasia (1981)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dTtBTA9Wjrea78AfI9tmW0jpiwz.jpg" group-title="ANIMAÇÃO",Heavy Metal: Universo em Fantasia (1981)
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/154661.mp4
+#EXTINF:-1 tvg-id="" tvg-name="#Horror (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/v9pTHwhpSWmPHU8i1pEt9VIG9Kg.jpg" group-title="TERROR",#Horror (2015)
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/154670.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Mal que Nos Habita (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tkfFo9lKYVGd8tBYipaPgJvN2AI.jpg" group-title="LANÇAMENTOS 2023",O Mal que Nos Habita (2023)
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/154671.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Cedo Demais (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5Dx8v71Wsoc59sjfGLmyTuf73JO.jpg" group-title="LANÇAMENTOS 2024",Cedo Demais (2024)
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/154672.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Assassino de Aluguel (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eYIkE5wwM2rQgMyKdAkrnhYZ5zQ.jpg" group-title="FAROESTE",Assassino de Aluguel (2018)
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/154673.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Projeto Caça ao Lobo (2022) LEG" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uM0wcqCNbKfVowUKko7fvzOSSdf.jpg" group-title="TERROR",Projeto Caça ao Lobo (2022) LEG
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/154704.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Origem do Medo (2024) LEG" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9tG77VE7bP8ve79X86ABwHzDqbb.jpg" group-title="LANÇAMENTOS 2024",A Origem do Medo (2024) LEG
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/154705.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Guerra Civil (2024) LEG CAM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p3Yoi8pMLCMk8V5k1UrFo6E9uz4.jpg" group-title="NOS CINEMAS",Guerra Civil (2024) LEG CAM
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/154715.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Natal de James & Bob (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pjgQKH3Zpy7KBvCINakx5vtDmRb.jpg" group-title="FAMÍLIA",O Natal de James & Bob (2020)
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/154734.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Um Gato de Rua Chamado Bob (2016) LEG" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cEJ4i5O3Bjd9gLKmJBQJ1R7iwhJ.jpg" group-title="FAMÍLIA",Um Gato de Rua Chamado Bob (2016) LEG
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/154735.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Barbie Epic Road Trip (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/a2a1Y6a6UriLJ0U7cGjphPOWQPK.jpg" group-title="INFANTIL",Barbie Epic Road Trip (2022)
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/154736.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Our Son (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hy14e2I7GCiQJpVDa7MRXdtK5nz.jpg" group-title="LANÇAMENTOS 2023",Our Son (2023)
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/154754.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Que Jennifer Fez? (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/r3PJPXuSArGK8tM6lBUyPUTtIbJ.jpg" group-title="LANÇAMENTOS 2024",O Que Jennifer Fez? (2024)
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/154755.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Canção de Ninar de Katherine (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ayzTpIN174Cc9qaSewsL4YyC0ny.jpg" group-title="TERROR",A Canção de Ninar de Katherine (2020)
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/154757.mp4
+#EXTINF:-1 tvg-id="" tvg-name="À Beira da Extinção (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p0ui8pWEhARQyFK8XkZ0azf1qSl.jpg" group-title="FICÇÃO CIENTÍFICA ",À Beira da Extinção (2021)
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/154758.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ferrari (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6zOjG7PvjogN7JtUUqh6jX2hLK6.jpg" group-title="OSCAR 2024",Ferrari (2023)
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/154801.mp4
+#EXTINF:-1 tvg-id="" tvg-name="36 Horas (1964)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/JrkndJe6vmkrMorF7l3TjuTvB9.jpg" group-title="GUERRA",36 Horas (1964)
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/154802.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Helldose (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/21IxtKTgAjUvGUTlfZo4iuopzxj.jpg" group-title="NACIONAIS",Helldose (2021)
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/154808.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Pass (2023) LEG" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xHc14aobUrpSo9iZYqz842R9yU0.jpg" group-title="DRAMA",The Pass (2023) LEG
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/154817.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Passageiros da Noite (2008)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fAlpWK590o2nRjisR7mj2R2Vjm.jpg" group-title="MISTÉRIO",Passageiros da Noite (2008)
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/154818.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Família da Noiva (2005)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zvIgkHV0PC7Dcdyiy3zfRunxz5E.jpg" group-title=" COMÉDIA",A Família da Noiva (2005)
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/154819.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Acampamento do Medo (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dRdgD67ZKFPZLsMQ3Hngq85n3uh.jpg" group-title="TERROR",O Acampamento do Medo (2021)
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/154831.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Possessões (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wbf1LkidorzXo2yI9pbjH23YJRr.jpg" group-title="LANÇAMENTOS 2024",Possessões (2024)
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/154832.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Herança Roubada (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ia2p9fllgv4j1sHUGr2hTIgPrx4.jpg" group-title="LANÇAMENTOS 2024",Herança Roubada (2024)
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/154833.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Pica-Pau: As Férias no Acampamento (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2INtXKQGxQLT6MhztartxiammuC.jpg" group-title="LANÇAMENTOS 2024",Pica-Pau: As Férias no Acampamento (2024)
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/154834.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Grandes Hits (2024) LEG" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/10EYSdYhkD1anNevdXfFFtBihAo.jpg" group-title="LANÇAMENTOS 2024",Grandes Hits (2024) LEG
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/154871.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Os Últimos Dias do Paraíso - Geração Perdida (1994) LEG" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lxvY6as28ykgbPEuvZ5T29am99L.jpg" group-title="DRAMA",Os Últimos Dias do Paraíso - Geração Perdida (1994) LEG
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/154872.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Paz e Chocolate (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7SXPnOYZscdtyCwH8h2lInnSpGs.jpg" group-title=" COMÉDIA",Paz e Chocolate (2021)
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/154873.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Luta Por Sobrevivência (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gJbV4A1NNAysDfNbiUo4biapSY0.jpg" group-title="AÇÃO",Luta Por Sobrevivência (2021)
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/154874.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Experimento Assassino (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/34Q33Gvlbi1lHAcLrzVN2qY7SZC.jpg" group-title="FICÇÃO CIENTÍFICA ",Experimento Assassino (2021)
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/154875.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bad Ass: Acima da Lei (2012)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nTVRyHcPTrrMu90LIadJl44Itvo.jpg" group-title="AÇÃO",Bad Ass: Acima da Lei (2012)
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/154876.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Na Trilha do Inferno Nuclear (1977)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8FQag0fLuJ3djOjCilWnDOxV3Ou.jpg" group-title="AVENTURA",Na Trilha do Inferno Nuclear (1977)
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/154877.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Exterminador (1980) LEG" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hVQXL6Hp2bF7iVVSp9UfOfmewfD.jpg" group-title="AÇÃO",O Exterminador (1980) LEG
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/154878.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Melancholie der Engel (2009) LEG" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/khTYknUAzAv8QI4QGUNag2OQj5t.jpg" group-title="TERROR",Melancholie der Engel (2009) LEG
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/154879.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Um Robô em Curto Circuito (1986)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5IOdsnPPaDtE3paa04HlkMZGA7e.jpg" group-title="FAMÍLIA",Um Robô em Curto Circuito (1986)
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/154880.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Um Robô em Curto Circuito 2 (1988)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ezE46s5IESUpvg8wE39r9v66sBz.jpg" group-title="FAMÍLIA",Um Robô em Curto Circuito 2 (1988)
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/154896.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Uma Parede entre Nós (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lURBFLtvbW3MuyJLU5GV68H530h.jpg" group-title="LANÇAMENTOS 2024",Uma Parede entre Nós (2024)
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/154903.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Uma Jornada Entre Amigos (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hE9ToZRWcEd3jh96gbhKjWlUOQa.jpg" group-title="LANÇAMENTOS 2024",Uma Jornada Entre Amigos (2024)
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/154904.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Reencontro da Turma (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hERAMeQsYvIBVieP72luNnNrZwz.jpg" group-title="LANÇAMENTOS 2024",O Reencontro da Turma (2024)
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/154905.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Caminhos De Sangue (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/62edhdYzdUNKDLL0GUlKbTOwbA7.jpg" group-title="CRIME",Caminhos De Sangue (2019)
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/154906.mp4
+#EXTINF:-1 tvg-id="" tvg-name="SDL - A Batalha Musical (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iiYroOiA7PCwjmxRnMst6jfxXFY.jpg" group-title="LANÇAMENTOS 2024",SDL - A Batalha Musical (2024)
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/154909.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Gavião e a Flecha (1950)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u9NpVZaHgzUCyNlhHVa08UPeoNJ.jpg" group-title="AVENTURA",O Gavião e a Flecha (1950)
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/154922.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Syriana: A Indústria do Petróleo (2005)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vJY5UlBzckasQSASzoajSihVE8D.jpg" group-title="DRAMA",Syriana: A Indústria do Petróleo (2005)
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/154923.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bad Ass 2: Ação em Dobro (2014)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sGuBmp5rn8hkEdeMoXkb2IbTTer.jpg" group-title="AÇÃO",Bad Ass 2: Ação em Dobro (2014)
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/154924.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Tributo - Lima Duarte (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lCCr0F07yRVQThnSLPIgjNyIXYk.jpg" group-title="LANÇAMENTOS 2024",Tributo - Lima Duarte (2024)
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/154925.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Tributo: Manoel Carlos (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tKca976tngEvcWVBIWZiPaKRZsl.jpg" group-title="LANÇAMENTOS 2024",Tributo: Manoel Carlos (2024)
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/154926.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Tributo: Zezé Motta (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fG6YuaV5iuXeNUF8SbNi355Df9C.jpg" group-title="LANÇAMENTOS 2024",Tributo: Zezé Motta (2024)
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/154927.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Tributo: Laura Cardoso (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kQ31FHgEAEhwyOM29vYjJlzSmWg.jpg" group-title="LANÇAMENTOS 2024",Tributo: Laura Cardoso (2024)
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/154928.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Tributo: Ary Fontoura (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vWt6YvS9cLP5qRmbdqZp93VyzfL.jpg" group-title="LANÇAMENTOS 2024",Tributo: Ary Fontoura (2024)
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/154929.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Tributo: Léa Garcia (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bcJf8zzr8OGWgrbWvkpr2jEF2cQ.jpg" group-title="LANÇAMENTOS 2023",Tributo: Léa Garcia (2023)
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/154930.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Um Plano em Família (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1aBZPIHkQeqQuTdYmYhhyKgwwel.jpg" group-title=" COMÉDIA",Um Plano em Família (2021)
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/154932.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Macaco vs. Máquina (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/isXDRoaeOm7BJVXVwPzPTnKWKqi.jpg" group-title="LANÇAMENTOS 2023",Macaco vs. Máquina (2023)
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/154933.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Os Últimos Dias de Copacabana Jack (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/acVJ0bUTNR9bpdziUwcrq1G1tmR.jpg" group-title="NACIONAIS",Os Últimos Dias de Copacabana Jack (2018)
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/154934.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Des-Igualdade - O Filme (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7gXomzcKqzz0NRv6vtlxVa0bMs6.jpg" group-title="LANÇAMENTOS 2023",Des-Igualdade - O Filme (2023)
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/154935.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bia (2.0) (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/irqAXv6ydtkvAu1An6frFymECaf.jpg" group-title="NACIONAIS",Bia (2.0) (2018)
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/154936.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Nossos Fantasmas (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nAVp1LiG9xVRRG52pW4Wp970pFQ.jpg" group-title="DRAMA",Nossos Fantasmas (2021)
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/154937.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Os Três Mosqueteiros: Milady (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qsOK6mqsmddKmiEtLReV6nlbuW0.jpg" group-title="LANÇAMENTOS 2023",Os Três Mosqueteiros: Milady (2023)
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/154938.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Duna: Parte Dois (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/e8pI4XkYgUMuSJ8cEFbJE18wc4e.jpg" group-title="LANÇAMENTOS 2024",Duna: Parte Dois (2024)
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/154939.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sede de Vingança (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ws1teH5HrnDBzKn7xYq45RR9hsG.jpg" group-title="MISTÉRIO",Sede de Vingança (2015)
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/154940.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Cobrador de Dívidas 2 (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dcWNH4CLkQV5RSwKmpObmXmOklJ.jpg" group-title="AÇÃO",O Cobrador de Dívidas 2 (2020)
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/154941.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Resistindo às Tentações (2003)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hDW9gViikPorKx2Ubl3cLm67Gk4.jpg" group-title=" COMÉDIA",Resistindo às Tentações (2003)
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/154942.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sleep: O Mal Nunca Dorme (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hPkKVF1txOCiYvhx0PZkQADvX3P.jpg" group-title="LANÇAMENTOS 2023",Sleep: O Mal Nunca Dorme (2023)
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/154944.mp4
+#EXTINF:-1 tvg-id="" tvg-name="EXmas (2023) LEG" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4WfzdlUXUAd1QA6xmbbNH89Kgbo.jpg" group-title="LANÇAMENTOS 2023",EXmas (2023) LEG
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/154981.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Fôlego da Vida (2023) LEG" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1hku2QAzbElm3TrYoZEgRqQHMQ5.jpg" group-title="LANÇAMENTOS 2023",O Fôlego da Vida (2023) LEG
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/154982.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Código de Honra (2011)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sQD8NLW8ZsKHZMx9n7dLHSDgseH.jpg" group-title="MISTÉRIO",Código de Honra (2011)
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/154983.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Um Ratinho Encrenqueiro (1997)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/n06wwb10GQwqM9auZTeEhjeU2N8.jpg" group-title="FAMÍLIA",Um Ratinho Encrenqueiro (1997)
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/154984.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Os Duelistas (1977)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gdyHx1tra3SjPx4aD2x9DE9K0UN.jpg" group-title="GUERRA",Os Duelistas (1977)
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/155003.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Riqueza Tóxica (2018) LEG" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1HpAwszXLsD8GeypDzK0me7fPFA.jpg" group-title="FICÇÃO CIENTÍFICA ",Riqueza Tóxica (2018) LEG
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/155004.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Caminho para o Coração (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oZPl3U4Uxi2FifZCKiHsIZTxIFj.jpg" group-title="DRAMA",O Caminho para o Coração (2022)
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/155007.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mãe em Fúria (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6ejm4Sx3rp44awUE0qyG1APBvpI.jpg" group-title="MISTÉRIO",Mãe em Fúria (2021)
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/155008.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Capitão Soviético (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ncVSZQn1fH0U4EB7kRzb4Pw53Mi.jpg" group-title="DRAMA",O Capitão Soviético (2021)
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/155015.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Imaculada (2024) LEG" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7bTGVenx0mUnuy4cx4vWtuYHY5Q.jpg" group-title="LANÇAMENTOS 2024",Imaculada (2024) LEG
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/155016.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Uma Família Feliz (2024) CAM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6cgL3n62QkoXNbYymgeb4ZAtged.jpg" group-title="NOS CINEMAS",Uma Família Feliz (2024) CAM
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/155017.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Um Amor de Tesouro (2008)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qx6ksOgDrMqhXCDQBoqIpeOYVHo.jpg" group-title="AVENTURA",Um Amor de Tesouro (2008)
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/155026.mp4
+#EXTINF:-1 tvg-id="" tvg-name="8/1 – A Democracia Resiste (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7WwyrCZORz8qR2iizhUEZx5iZDu.jpg" group-title="LANÇAMENTOS 2024",8/1 – A Democracia Resiste (2024)
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/155027.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Rover Dangerfield - Uma Vida de Cachorro (1991)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/e8fOAtuAbyKDaXuxSmOnsDSZ46e.jpg" group-title="ANIMAÇÃO",Rover Dangerfield - Uma Vida de Cachorro (1991)
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/155028.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Estritamente Confidencial (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oRUusyQlKCfynGO1fIoCiLeNsY4.jpg" group-title="LANÇAMENTOS 2024",Estritamente Confidencial (2024)
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/155093.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Vítimas do Silêncio (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6XN45BW4mICXrEIGdCC2WKlSy1.jpg" group-title="TERROR",Vítimas do Silêncio (2021)
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/155112.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Resort (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bXZUVJP8Fr3RId7SSsV4RXvjnIh.jpg" group-title="TERROR",O Resort (2021)
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/155113.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Jogo do Elevador (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zWfE8QVHRq0tEcgJlud394YQl2k.jpg" group-title="LANÇAMENTOS 2023",O Jogo do Elevador (2023)
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/155114.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Plano de Aposentadoria (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/svRPl0vKtvtIAV1baUTcTiRlzsZ.jpg" group-title="LANÇAMENTOS 2023",Plano de Aposentadoria (2023)
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/155115.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dois homens violentos (1964)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/f9PXttiagML7EKhPFSoBoLrmXUg.jpg" group-title="FAROESTE",Dois homens violentos (1964)
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/155116.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Rebel Moon - Parte 2: A Marcadora de Cicatrizes (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/keBIsy6HV1Vx8DVaKpCyIkyUMrO.jpg" group-title="LANÇAMENTOS 2024",Rebel Moon - Parte 2: A Marcadora de Cicatrizes (2024)
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/155151.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Puppy Love (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oTc03izWZ9UdD3y0HegVV2M0s0J.jpg" group-title="LANÇAMENTOS 2023",Puppy Love (2023)
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/155152.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Minha Teoria da Popularidade (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hGPTbZTdmYgAuS58hY2JAI7B1Mx.jpg" group-title="LANÇAMENTOS 2024",Minha Teoria da Popularidade (2024)
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/155153.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Medo (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pCDb2U7nlTHjFUoHcejyYCB0WHB.jpg" group-title="LANÇAMENTOS 2023",Medo (2023)
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/155154.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Impuratus: A Confissão do Diabo (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uoxXcTlZTqNX3qiYaxUxLdM39nq.jpg" group-title="LANÇAMENTOS 2023",Impuratus: A Confissão do Diabo (2023)
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/155155.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Melhor Jogo da História (2005)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rjddt0WqH1FU1im0ur19PKpXDeU.jpg" group-title="DRAMA",O Melhor Jogo da História (2005)
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/155169.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Encouraçado Potemkin (1925)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zYqlHD9SwZVVOtlQugqzZFLK845.jpg" group-title="HISTÓRIA",O Encouraçado Potemkin (1925)
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/155170.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Tarde da Noite com o Diabo (2024) LEG" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u3YQJctMzFN2wAvnkmXy41bXhFv.jpg" group-title="LANÇAMENTOS 2024",Tarde da Noite com o Diabo (2024) LEG
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/155203.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Recompensa (2013)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9pSIXG7wBSlUufbklolD5E9oald.jpg" group-title="CRIME",A Recompensa (2013)
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/155204.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Batalha Real (2000)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4oTE60bxxVlKrVqltCGQbHXVWMM.jpg" group-title="DRAMA",Batalha Real (2000)
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/155208.mp4
+#EXTINF:-1 tvg-id="" tvg-name="As Aventuras do Ladrão de Bagdad (1961)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wOKGdzI2L9KpaexWYLLS2hrsvHt.jpg" group-title="AVENTURA",As Aventuras do Ladrão de Bagdad (1961)
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/155209.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mousa (2021) LEG" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/voo0uaAVCGYgAAeJEf5peFNPOAI.jpg" group-title="FICÇÃO CIENTÍFICA ",Mousa (2021) LEG
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/155210.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Anjos na Terra (2024) LEG" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7pe1dn5RPxpkEOfOZtXRZAehxv3.jpg" group-title="LANÇAMENTOS 2024",Anjos na Terra (2024) LEG
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/155211.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Prova do Leão (1965)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jnAClNX0E4SRLWusT7lJcuUrcnR.jpg" group-title="AVENTURA",A Prova do Leão (1965)
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/155212.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Cine Majestic (2001)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mt50OUmtyMdiIR8Epa2LOAzquc2.jpg" group-title="DRAMA",Cine Majestic (2001)
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/155213.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Golpe de Milhões (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/74xxiDE300e1yRZz4iDoCvR2ike.jpg" group-title="MISTÉRIO",O Golpe de Milhões (2022)
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/155214.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Assalto de Nossas Vidas (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rCVi9jlnRfnZQU5FjM6ys0lHlDe.jpg" group-title="CRIME",O Assalto de Nossas Vidas (2022)
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/155215.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Soldado Fantasma (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kl8CzY2ApzC8BrYpnHq6evGD9dc.jpg" group-title="TERROR",O Soldado Fantasma (2018)
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/155216.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Garra de Ferro (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wzYxCgCsllrLwhMR4gbTk2gfFm6.jpg" group-title="LANÇAMENTOS 2023",Garra de Ferro (2023)
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/155217.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Antologia da Pandemia (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8eyTXtfSAQyXjGP2qSYNZv5UZzy.jpg" group-title="TERROR",Antologia da Pandemia (2020)
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/155218.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Sombra do Mal (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6LyFyzc2TGioGjmueMb4vD2HTvv.jpg" group-title="LANÇAMENTOS 2023",A Sombra do Mal (2023)
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/155219.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Maldição do Titanic (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rA4irW4Pf9kntxTqv9rtlYZFzD9.jpg" group-title="TERROR",A Maldição do Titanic (2022)
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/155220.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Maldição de Hannah Stevenson (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uCOMiPwygEPSuUjatADcLMDoRnL.jpg" group-title="TERROR",A Maldição de Hannah Stevenson (2022)
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/155221.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Cidadão X (1995)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cvFkIftJGIkSv0x6i8H7paubOQk.jpg" group-title="CRIME",Cidadão X (1995)
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/155231.mkv
+#EXTINF:-1 tvg-id="" tvg-name="A Fórmula Secreta (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/24zJ2JLnBQiiQRrjLb0kIY4nEQF.jpg" group-title="AÇÃO",A Fórmula Secreta (2021)
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/155238.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Super (2010)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jZrRMGSajZQehg8mz74A5A00L3.jpg" group-title=" COMÉDIA",Super (2010)
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/155248.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Castores Zumbis (2014)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gdb7v5GCfijrCjOjzbziGMGs6JA.jpg" group-title="TERROR",Castores Zumbis (2014)
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/155249.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Arisaka (2021) LEG" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zzMvqwJaSPKkN5mkDQ0dLHJsPho.jpg" group-title="AÇÃO",Arisaka (2021) LEG
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/155250.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Beyoncé: A Vida é Apenas um Sonho (2013) LEG" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ycCe2U86MvPikPi1grnOrTxefFL.jpg" group-title="DOCUMENTÁRIOS",Beyoncé: A Vida é Apenas um Sonho (2013) LEG
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/155251.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Black Is King (2020) LEG" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2u1cyQgBpWWypISdbUDCu2hasGV.jpg" group-title="DISNEY+",Black Is King (2020) LEG
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/155252.mp4
+#EXTINF:-1 tvg-id="" tvg-name="McQ - Um Detetive Acima da Lei (1974)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9SjAuF58qrPbH3ptJu3ajGcRnV1.jpg" group-title="AÇÃO",McQ - Um Detetive Acima da Lei (1974)
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/155253.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Guerra Civil (2024) CAM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eh5OA35IjVeXVy0rHWmXvJBecMp.jpg" group-title="NOS CINEMAS",Guerra Civil (2024) CAM
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/155254.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Príncipe Lu e a Lenda do Dragão (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yR2rLWHqC8aYQcG0LZD9p9tA7Mw.jpg" group-title="LANÇAMENTOS 2024",Príncipe Lu e a Lenda do Dragão (2024)
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/155255.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Downtown Owl (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kkXGsCIo643ryekY8UT6Onzrc4r.jpg" group-title="LANÇAMENTOS 2023",Downtown Owl (2023)
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/155256.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Submersos (2002)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/si5NdTrtQXrYHKPnPtTyaH3fJJd.jpg" group-title="TERROR",Submersos (2002)
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/155259.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Eye: A Herança (2002)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iMjNu9e4tK2s5b4JXkHeySr34IR.jpg" group-title="TERROR",The Eye: A Herança (2002)
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/155262.mp4
+#EXTINF:-1 tvg-id="" tvg-name="House (1977) LEG" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rMKWtsUG2m3qsuh9iLBT7Nl75My.jpg" group-title="TERROR",House (1977) LEG
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/155265.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Começar de Novo (2006) LEG" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uWzhxyxg6Yc5MlTQM4AFIKs6gZA.jpg" group-title="DRAMA",Começar de Novo (2006) LEG
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/155266.mp4
+#EXTINF:-1 tvg-id="" tvg-name="C.H.U.D. - A Cidade das Sombras (1984) LEG" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8BVw5RIDBTZwdMAR1VKpAkwrMjj.jpg" group-title="TERROR",C.H.U.D. - A Cidade das Sombras (1984) LEG
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/155267.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Liga da Justiça: Crise nas Infinitas Terras - Parte Dois (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oQJWjO5aw5N4uCoh6CYrxf1LePv.jpg" group-title="LANÇAMENTOS 2024",Liga da Justiça: Crise nas Infinitas Terras - Parte Dois (2024)
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/155268.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Uma Prova de Coragem (2024) LEG" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/z7Nd0ZlVVeblj9U12LeGrPp2cAn.jpg" group-title="LANÇAMENTOS 2024",Uma Prova de Coragem (2024) LEG
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/155269.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Fúria Primitiva (2024) LEG" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ziXIsqVTBrKajZpVEGKiSvot3gu.jpg" group-title="LANÇAMENTOS 2024",Fúria Primitiva (2024) LEG
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/155270.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Praia dos Desejos (1992)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ugh1vGjnuMR8rwqQBbn8B33TOwP.jpg" group-title="FANTASIA",A Praia dos Desejos (1992)
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/155271.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Gravidez a Qualquer Custo (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zWOPibu4RqGz9Y4zj657HslR964.jpg" group-title="LANÇAMENTOS 2023",Gravidez a Qualquer Custo (2023)
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/155323.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Corpolítica (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aNmcpT173BpoEVzbzn1cyjn1U59.jpg" group-title="DOCUMENTÁRIOS",Corpolítica (2022)
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/155347.mp4
+#EXTINF:-1 tvg-id="" tvg-name="WAZ - Matemática da Morte (2007)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ladrVnYAt8ecyMj4oPBFUovahoU.jpg" group-title="TERROR",WAZ - Matemática da Morte (2007)
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/155352.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Rivais (2024) LEG CAM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zoYD52lPwO4agBEKcja6cAsoyLW.jpg" group-title="NOS CINEMAS",Rivais (2024) LEG CAM
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/155353.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Salomé (1953)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kHZnxZoxYJPXMfkPieR0xNiTJjh.jpg" group-title="DRAMA",Salomé (1953)
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/155354.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Resgate em Amsterdã (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iw3zC4i0wA1k6qlMiYdM7AG92q5.jpg" group-title="LANÇAMENTOS 2023",Resgate em Amsterdã (2023)
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/155368.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Enquanto Você Dorme (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5mF2F4AihZbYn5BWsm10KBSQQAJ.jpg" group-title="TERROR",Enquanto Você Dorme (2021)
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/155369.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Desespero Profundo (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ktxq0LYgl41I2DUn49TYIaS9dZR.jpg" group-title="LANÇAMENTOS 2024",Desespero Profundo (2024)
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/155370.mp4
+#EXTINF:-1 tvg-id="" tvg-name="City Hunter (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1zmZZ6fXE0JjPNEdmXoZxiFXodQ.jpg" group-title="LANÇAMENTOS 2024",City Hunter (2024)
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/155371.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Caçados (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cdVz9dUv2YvNQil4svLAiUTuY28.jpg" group-title="MISTÉRIO",Caçados (2022)
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/155372.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Última Noite em Pacerville (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3M4m02AVz4gCil1e0I5Wiz8ETiK.jpg" group-title="TERROR",A Última Noite em Pacerville (2022)
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/155373.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Cortina de Fumaça (1995) LEG" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4y376lUdfrIILKRNUCgYPxnP5eo.jpg" group-title="DRAMA",Cortina de Fumaça (1995) LEG
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/155393.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Antares de la Luz: Uma Seita Apocalíptica (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/n51gQ3x8nTgHOGnHb2MJpOnCJzd.jpg" group-title="LANÇAMENTOS 2024",Antares de la Luz: Uma Seita Apocalíptica (2024)
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/155398.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Primeira Vez (2012)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7Pz55oseP541NY03E0pCmviB1b6.jpg" group-title="ROMANCE",A Primeira Vez (2012)
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/155399.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sayen: A Caçadora (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5mF6zKM7LUnEVYTLAlwoZlskdbQ.jpg" group-title="LANÇAMENTOS 2024",Sayen: A Caçadora (2024)
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/155448.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Puan (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iusTlaCKAv6JQmPXdmHyRTSLeae.jpg" group-title="LANÇAMENTOS 2023",Puan (2023)
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/155449.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Os Segredos da Alimentação (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rUCgAF6P0lfSU9Q2VqVErXVowOf.jpg" group-title="LANÇAMENTOS 2024",Os Segredos da Alimentação (2024)
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/155450.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Love Lies Bleeding: O Amor Sangra (2024) LEG" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hVzuQWf131BFELS5PaZqvSKF50X.jpg" group-title="LANÇAMENTOS 2024",Love Lies Bleeding: O Amor Sangra (2024) LEG
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/155459.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Duelo dos Homens Sem Lei (2005)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gatJjo8lFTFZzY2rGbs7m3jRnHG.jpg" group-title="FAROESTE",Duelo dos Homens Sem Lei (2005)
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/155479.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Um Divã para Dois (2012)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2mlR5JUJUE99UCFi8Pe86LFXlRI.jpg" group-title="DRAMA",Um Divã para Dois (2012)
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/155480.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Secretária (2002)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/w7nyLw8qvgsda94Mn1YTXy4Gq2n.jpg" group-title=" COMÉDIA",Secretária (2002)
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/155481.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sandy & Junior: Nossa História (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/68XKACjUoKlhQEdPEXi4NylPt6m.jpg" group-title="DOCUMENTÁRIOS",Sandy & Junior: Nossa História (2020)
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/155482.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Refém do Espírito (2008)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vLyY8CXJMY3SLOiDniRfgKOPs5g.jpg" group-title="TERROR",Refém do Espírito (2008)
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/155485.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Perdidos em Nova York (1999)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dsdeWQoWueJxTpnQTqVFrQbVH5r.jpg" group-title=" COMÉDIA",Perdidos em Nova York (1999)
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/155507.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Apaixonada (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ih0G409JNF8L7Maz3tQwPnLOjD7.jpg" group-title="LANÇAMENTOS 2024",Apaixonada (2024)
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/155518.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Segredos Não Podem Ser Enterrados (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/k5IpWbxBv6sSEGC4FLfA93aZcsA.jpg" group-title="TERROR",Segredos Não Podem Ser Enterrados (2021)
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/155519.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Senhor Diabo (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/65SXCGEndNfEEyg5TtHZMjxEERh.jpg" group-title="TERROR",O Senhor Diabo (2019)
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/155520.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Não Volte Para Casa! (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yFQvabvW8dcnnRnTU5vFOwcmEXP.jpg" group-title="TERROR",Não Volte Para Casa! (2020)
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/155521.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Jogo do Destino (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3V0iiaCYgaJHL1Z6aiTyacDzfof.jpg" group-title="LANÇAMENTOS 2023",Jogo do Destino (2023)
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/155522.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Fuja da Luz (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7uRmvy5PIe6FysvbxxvVBfU7ffP.jpg" group-title="TERROR",Fuja da Luz (2022)
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/155523.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Eu, Capitão (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/glY7KE3sLWrVUTKbRS9kGlnz0or.jpg" group-title="LANÇAMENTOS 2023",Eu, Capitão (2023)
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/155524.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Entre Mentiras e Segredos (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cM0A65HoJ6sXnRFYvXjRH7SBCon.jpg" group-title="MISTÉRIO",Entre Mentiras e Segredos (2021)
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/155525.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Em Chamas (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dh0xebH7dT8keNFflIdjhqeiMVY.jpg" group-title="LANÇAMENTOS 2023",Em Chamas (2023)
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/155526.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Grande Fraude (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5WBEMwjNXg7KnQGXS5ac6AwiOhf.jpg" group-title="MISTÉRIO",A Grande Fraude (2021)
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/155527.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Old Oak (2023) LEG" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xN293BKB0MDqpILmLCtGGYxQXKW.jpg" group-title="LANÇAMENTOS 2023",The Old Oak (2023) LEG
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/155531.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sádica Perseguição (1995)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/q4lAGqpDySxw8iIWZFREofbtb6F.jpg" group-title="AÇÃO",Sádica Perseguição (1995)
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/155532.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Sangue Frio (1995)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zfU3QJVqnY3wW1La9ptrOYGFdbP.jpg" group-title="AÇÃO",A Sangue Frio (1995)
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/155533.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ambição em Alta Voltagem (1995)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eGfsSXizR11tTHVo0kuOOFPAxZt.jpg" group-title="AÇÃO",Ambição em Alta Voltagem (1995)
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/155534.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Infestação (2023) LEG" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3dx1yPdVzxEr6rMn4cVSiljk1kX.jpg" group-title="LANÇAMENTOS 2023",Infestação (2023) LEG
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/155535.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Encontro às Cegas (2015) LEG" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gT4PndEpTPjhAvXBSLeUDIaPcmA.jpg" group-title=" COMÉDIA",Encontro às Cegas (2015) LEG
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/155536.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Hacker (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/20M7sHjKS0MvuJEMV66tJFdz8YC.jpg" group-title="CRIME",Hacker (2015)
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/155537.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Evidências do Amor (2024) CAM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ohN79eTvl1L6YvLJwYgWbkl7pw4.jpg" group-title="NOS CINEMAS",Evidências do Amor (2024) CAM
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/155538.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Contra o Mundo (2024) CAM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/b5aI1Pz7SILankzHxBKD4lTCdru.jpg" group-title="NOS CINEMAS",Contra o Mundo (2024) CAM
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/155549.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Kung Fu Panda 4 (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aNK6MA5EApIo0UJE7ZWSYcZBJKy.jpg" group-title="LANÇAMENTOS 2024",Kung Fu Panda 4 (2024)
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/155550.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Lua de Mel Inusitada (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mwzDjDSdBkntmhS5hDxxYZB7wDD.jpg" group-title="LANÇAMENTOS 2024",Lua de Mel Inusitada (2024)
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/155551.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Sertão Vai Vir ao Mar (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c0KfTprGnc7RH2ebkBzKH3e9KUY.jpg" group-title="LANÇAMENTOS 2024",O Sertão Vai Vir ao Mar (2024)
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/155552.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Cabrini (2024) LEG" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rBiHiN8W4BqMFrDozemzkof7GmF.jpg" group-title="LANÇAMENTOS 2024",Cabrini (2024) LEG
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/155567.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Love Everlasting (2016) LEG" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fQeaB97z2g0vdu0tvu0T9me1aJF.jpg" group-title="DRAMA",Love Everlasting (2016) LEG
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/155568.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bodas de sangue (1981) LEG" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5Q91ltVct73rghtTI6UrAh8ZoJ.jpg" group-title="DRAMA",Bodas de sangue (1981) LEG
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/155575.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Amor Bruxo (1986) LEG" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4lwWfALqmxLB9sE4sXGa7W7zyCW.jpg" group-title="ROMANCE",Amor Bruxo (1986) LEG
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/155576.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Suando Frio (1999)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rlBBopymnd3NJB4mudcQKykVZoj.jpg" group-title="AÇÃO",Suando Frio (1999)
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/155577.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Savior: A Última Guerra (1998)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mggUcf8LaZFHFxUi4zdtbmjoBtf.jpg" group-title="HISTÓRIA",Savior: A Última Guerra (1998)
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/155578.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Popeye (1980)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hCCp4pESgYY6uTFARYf4UYV1BdU.jpg" group-title="AVENTURA",Popeye (1980)
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/155579.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Uma Paixão Roubada (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8qu6av2XIDW6sPSnZLHPQLK6tfK.jpg" group-title=" COMÉDIA",Uma Paixão Roubada (2018)
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/155580.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Alison (2016) LEG" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gtl1K7AEf3hhttvntfJ9SdE8jtO.jpg" group-title="DOCUMENTÁRIOS",Alison (2016) LEG
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/155581.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Zona de Risco (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ntZN3ZuWb6yjfRL5h2O5ba9lJFM.jpg" group-title="MISTÉRIO",Zona de Risco (2021)
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/155621.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Na Mira dos Assassinos (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1vkWm6NOqXWbucCjgZReItkxjiD.jpg" group-title="CRIME",Na Mira dos Assassinos (2022)
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/155622.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mais Uma Vida (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/byMdaD2oQNmgcI9Ohak9m1T0wE0.jpg" group-title=" COMÉDIA",Mais Uma Vida (2022)
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/155623.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Escolhas do Coração (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5t7Sn37rB23ZbQ13MmIBmxsB4A9.jpg" group-title="ROMANCE",Escolhas do Coração (2022)
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/155624.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Mutação (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/b1yG7yrxvjEs8ToQuDkeNvenBg7.jpg" group-title="TERROR",A Mutação (2021)
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/155625.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Godzilla Minus One (2023) LEG" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iXrCBynsyRGbOtoBeWjt1bRINuA.jpg" group-title="OSCAR 2024",Godzilla Minus One (2023) LEG
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/155635.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Uma Ideia de Você (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5rIKVegF7XMPB02RaFaxtFwTPR0.jpg" group-title="LANÇAMENTOS 2024",Uma Ideia de Você (2024)
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/155636.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Paulinho Gogó em Top Love - Só e Bem Acompanhado (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8wVKgEbbooBaHtjfr92H5p2fFDW.jpg" group-title="LANÇAMENTOS 2024",Paulinho Gogó em Top Love - Só e Bem Acompanhado (2024)
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/155637.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Lisa Frankenstein (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7Pm0hYthiHVmTO4MCuP4mWfrJIa.jpg" group-title="LANÇAMENTOS 2024",Lisa Frankenstein (2024)
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/155638.mp4
+#EXTINF:-1 tvg-id="" tvg-name="He Went That Way (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ii1DVzyj9uJOF9qBrnHCT6nAxUw.jpg" group-title="LANÇAMENTOS 2024",He Went That Way (2024)
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/155639.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Noite Em Que Voltaram Para Casa (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bgvmGUwUH4Iyoz0LpihR1y8eqlQ.jpg" group-title="LANÇAMENTOS 2024",A Noite Em Que Voltaram Para Casa (2024)
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/155640.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Arcadian (2024) LEG" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1blZfK6KtBkCGWeo7iIPlLAzzqr.jpg" group-title="LANÇAMENTOS 2024",Arcadian (2024) LEG
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/155663.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Damaged (2024) LEG" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eacWm6jPrjkpqhi4VzwqYeJWL6k.jpg" group-title="LANÇAMENTOS 2024",Damaged (2024) LEG
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/155664.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Sabor da Vida (2023) LEG" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/m8VlwuhIrr9m425tpXuQEdIzN5q.jpg" group-title="LANÇAMENTOS 2023",O Sabor da Vida (2023) LEG
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/155665.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Os Segredos dos Neandertais (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jQVkUD3dhIz659JdnlpnsSELmYq.jpg" group-title="LANÇAMENTOS 2024",Os Segredos dos Neandertais (2024)
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/155671.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Tartarugas Até Lá Embaixo (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tDKlFXWCvIkP2Xl2nMdI49kzwZx.jpg" group-title="LANÇAMENTOS 2024",Tartarugas Até Lá Embaixo (2024)
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/155672.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Garfield - Fora de Casa (2024) CAM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rC5RqXtFoTkBhNWE1dczwi4dZrX.jpg" group-title="NOS CINEMAS",Garfield - Fora de Casa (2024) CAM
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/155673.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mário e Leon: No Amor e no Jogo (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/v7YILAHLXFPYJ5sm9Z6l5iP8XSF.jpg" group-title="PEDIDOS",Mário e Leon: No Amor e no Jogo (2018)
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/155674.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Primeiro Verão (2000) LEG" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lXwEJMmK7aw9SAOUhIM70FBPAK8.jpg" group-title="PEDIDOS",Primeiro Verão (2000) LEG
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/155675.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Norma Rae (1979) LEG" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6au7WBVYoKhV1jORyFSIRszb46S.jpg" group-title="PEDIDOS",Norma Rae (1979) LEG
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/155676.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Femme (2023) LEG" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/psOtLTiRvGT9Biqwqi5nXZBjZ3C.jpg" group-title="LANÇAMENTOS 2023",Femme (2023) LEG
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/155677.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bela e Rebelde (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/icjLDiTzcXgzzbiAu6AFbWL8FmH.jpg" group-title="LANÇAMENTOS 2024",Bela e Rebelde (2024)
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/155679.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Primeira Profecia (2024) LEG CAM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ybAcizMKEdeVreFj2R9effkF5Ii.jpg" group-title="NOS CINEMAS",A Primeira Profecia (2024) LEG CAM
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/155681.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Holocausto Brasileiro (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/76muwL3vWeojBD5N2ARsgFrtXPx.jpg" group-title="PEDIDOS",Holocausto Brasileiro (2016)
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/155687.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Top Gunner: Zona de Perigo (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2xcV2egehqvKTHFEtvG5k8PMbeB.jpg" group-title="PEDIDOS",Top Gunner: Zona de Perigo (2022)
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/155688.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Dobro Mais Quinze (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pSZ3wGa80brKDIeW7ZNwlvAzEHp.jpg" group-title="PEDIDOS",O Dobro Mais Quinze (2020)
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/155689.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Batalha do Biscoito Pop-Tart (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xaki9LW8SgHUJ1wS3JSbk9dYkyY.jpg" group-title="LANÇAMENTOS 2024",A Batalha do Biscoito Pop-Tart (2024)
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/155690.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Duna: Parte Dois (2024) 4K" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/e8pI4XkYgUMuSJ8cEFbJE18wc4e.jpg" group-title="4K",Duna: Parte Dois (2024) 4K
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/155705.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Meninas Não Choram (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/auK7oaHT12JZMjauZeYXCS719cx.jpg" group-title="LANÇAMENTOS 2024",Meninas Não Choram (2024)
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/155728.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Sequestro do Ônibus 657 (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/88MF5TO8GdpIqRJqTH4N9hnaVtY.jpg" group-title="PEDIDOS",O Sequestro do Ônibus 657 (2015)
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/155747.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Gattaca: A Experiência Genética (1997)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qBZ04WQDujrGFdXRl9m5yH0RdBx.jpg" group-title="PEDIDOS",Gattaca: A Experiência Genética (1997)
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/155748.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Escondida (2011) LEG" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c0vR2WV3duQboXmhhnrbjX5EU8W.jpg" group-title="PEDIDOS",Escondida (2011) LEG
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/155749.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Como Criar o Garoto Perfeito (2014)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/s1yzmxUhRiyJ5fqZGQfVcW1zukM.jpg" group-title="PEDIDOS",Como Criar o Garoto Perfeito (2014)
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/155750.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Noivo Neurótico, Noiva Nervosa (1977)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u6N75JTpwdBJeQwCkNz9E05Yuj0.jpg" group-title="PEDIDOS",Noivo Neurótico, Noiva Nervosa (1977)
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/155751.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Which Brings Me to You (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gspoAZ5p7G7D83OU9UFOmKICejw.jpg" group-title="LANÇAMENTOS 2023",Which Brings Me to You (2023)
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/155752.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Man (2022) LEG" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1JU1spATrH9Wbcvk3tAR0EFuqaj.jpg" group-title="PEDIDOS",A Man (2022) LEG
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/155941.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Afire (2023) LEG" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/e6KSeCe6JOyxZPkYnl4ltsQd1cs.jpg" group-title="LANÇAMENTOS 2023",Afire (2023) LEG
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/155942.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Blue Jean (2023) LEG" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8kzhsiL340IDeaAuEz4RfiFilgf.jpg" group-title="LANÇAMENTOS 2023",Blue Jean (2023) LEG
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/155943.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Comandante (2023) LEG" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gx7I64c46380zpRX66EsdL7Ga9x.jpg" group-title="LANÇAMENTOS 2023",Comandante (2023) LEG
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/155944.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Primeiro Dia da Minha Vida (2023) LEG" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/id3Epfvl8C1KZI7vzCTu6g3UcAo.jpg" group-title="LANÇAMENTOS 2023",O Primeiro Dia da Minha Vida (2023) LEG
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/155945.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Jeanne du Barry (2023) LEG" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/o4WMgW6BJw5Tbj0dK3DJBVYku8Y.jpg" group-title="LANÇAMENTOS 2023",Jeanne du Barry (2023) LEG
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/155946.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Primadonna (2023) LEG" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/azAjwDZu3ogIKjKD9evWXZARLOv.jpg" group-title="LANÇAMENTOS 2023",Primadonna (2023) LEG
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/155947.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Terra Prometida (2023) LEG" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/llXvirrQKyKSmRf9kxYzb7EUWDl.jpg" group-title="LANÇAMENTOS 2023",A Terra Prometida (2023) LEG
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/155948.mp4
+#EXTINF:-1 tvg-id="" tvg-name="La llegada (2023) LEG" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yWEkwq2FgCT3LYUflXqotzTzWfQ.jpg" group-title="LANÇAMENTOS 2023",La llegada (2023) LEG
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/155949.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Tempestade (1998)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5JiVOVgzk99xLHiFYI2eJFEfUj3.jpg" group-title="PEDIDOS",Tempestade (1998)
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/155950.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Exhuma (2024) LEG" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tw0i3kkmOTjDjGFZTLHKhoeXVvA.jpg" group-title="LANÇAMENTOS 2024",Exhuma (2024) LEG
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/155956.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Madonna: The Celebration Tour in Rio (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mGSCIvmZ8jRHSFzdNZVaeWzVr80.jpg" group-title="LANÇAMENTOS 2024",Madonna: The Celebration Tour in Rio (2024)
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/155957.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Beleza Negra (1994)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5AjqXStGyXU9VpYqUHzEtxAIqJ9.jpg" group-title="PEDIDOS",Beleza Negra (1994)
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/155958.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Antes e Depois (1996)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gSjuWIEZMM1ODFiTmgoyQiFvM6g.jpg" group-title="PEDIDOS",Antes e Depois (1996)
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/155959.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Jade: Guerreira Solitária (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pqotEkHRbhUPUuX9Gq4U6aJzK55.jpg" group-title="LANÇAMENTOS 2024",Jade: Guerreira Solitária (2024)
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/155960.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Man on the Run (2024) LEG" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bMgp6Rd2m2BfRMcppsisJAXHpav.jpg" group-title="LANÇAMENTOS 2024",Man on the Run (2024) LEG
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/155972.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bete Balanço (1984)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dzhS66IsRdZjB0EJQvMUKeTHp1f.jpg" group-title="PEDIDOS",Bete Balanço (1984)
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/155973.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Cobrador de Impostos (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/43fdO16uhawDtpVvNXnUNhlzOEt.jpg" group-title="PEDIDOS",O Cobrador de Impostos (2020)
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/155978.mp4
+#EXTINF:-1 tvg-id="" tvg-name="X-Men: Dias de um Futuro Esquecido – Edição Vampira (2015)" tvg-logo="https://media.fstatic.com/bAWk4wa2LAIgc3mfSvozxD1aNdE=/210x312/smart/filters:format(webp)/media/movies/covers/2015/08/x-men-days-of-future-past-the-rogue-cut_tNone.jpg" group-title="PEDIDOS",X-Men: Dias de um Futuro Esquecido – Edição Vampira (2015)
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/155979.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Mal Não Existe (2023) LEG" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3j0YQBIoGuKTSN4hwDE8TVc3sLT.jpg" group-title="LANÇAMENTOS 2023",O Mal Não Existe (2023) LEG
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/155980.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ghostbusters: Apocalipse de Gelo (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/boObGdocQS07Nu7IrettgA5oRTp.jpg" group-title="LANÇAMENTOS 2024",Ghostbusters: Apocalipse de Gelo (2024)
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/155981.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Drift (2024) LEG" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4OMssa91kM2GUNrDUfcqDqxajnR.jpg" group-title="LANÇAMENTOS 2024",Drift (2024) LEG
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/155982.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Abigail (2024) LEG" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5gKKSoD3iezjoL7YqZONjmyAiRA.jpg" group-title="LANÇAMENTOS 2024",Abigail (2024) LEG
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/156005.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Founders Day (2024) LEG" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ohzLPC9lHUWseBgB7HRcz0GBkFb.jpg" group-title="LANÇAMENTOS 2024",Founders Day (2024) LEG
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/156006.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Caça-Fantasmas (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qcpfGdYahW1NkqPAz2MHLPHas8O.jpg" group-title="PEDIDOS",Caça-Fantasmas (2016)
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/156017.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Ataque das Formigas Gigantes (1977)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/d6u9yqilFo3poFQcLOFA507ghNI.jpg" group-title="PEDIDOS",O Ataque das Formigas Gigantes (1977)
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/156018.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Invasão das Aranhas Gigantes (1975)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/83dzuR9ZHV5SDy7DN4dFbdvnG3S.jpg" group-title="PEDIDOS",A Invasão das Aranhas Gigantes (1975)
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/156019.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Amor, Felicidade ou Casamento (2011)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1NrzuMavrCTh0j2CNs44BEWGg4C.jpg" group-title="PEDIDOS",Amor, Felicidade ou Casamento (2011)
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/156078.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Terrível como o Inferno (1955)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uzeK4UwVVzzg5zUmYlfXdGXDOG5.jpg" group-title="PEDIDOS",Terrível como o Inferno (1955)
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/156079.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Duets: Vem Cantar Comigo (2000)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bq699Jr0K1UPReX53OmW5UIzFfB.jpg" group-title="PEDIDOS",Duets: Vem Cantar Comigo (2000)
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/156080.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Real (2017) LEG" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9olCCHvaM8Oij0BxoOo00jcKmW.jpg" group-title="PEDIDOS",Real (2017) LEG
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/156081.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O 13º Aniversário (1999)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cKbA1iYh9oL63BbZie1YWxqcWpB.jpg" group-title="PEDIDOS",O 13º Aniversário (1999)
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/156082.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Rebelde da Rádio (2012)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bfpbrUhOJ5tER1j4oolnvqd4nOC.jpg" group-title="PEDIDOS",Rebelde da Rádio (2012)
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/156083.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Shayda (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/71uGrqjqI4uyN2M9VpoOVqOoukC.jpg" group-title="LANÇAMENTOS 2023",Shayda (2023)
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/156115.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Shaitaan (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oRvFzcagAcC6Q317xtV7QXzwBnj.jpg" group-title="LANÇAMENTOS 2024",Shaitaan (2024)
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/156116.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Rye Lane: Um Amor Inesperado (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ljqrimXtkF47gSKcDyVLZ03ctYG.jpg" group-title="LANÇAMENTOS 2023",Rye Lane: Um Amor Inesperado (2023)
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/156117.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Emmanuelle 2 - Antivirgem (1975)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tFFmKV9jnzzTseJ8kH4I4zXTWKU.jpg" group-title="PEDIDOS",Emmanuelle 2 - Antivirgem (1975)
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/156122.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Adeus, Emmanuelle (1977)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/di2ZdeiAXhkU9f8zbw3Rcy27CAb.jpg" group-title="PEDIDOS",Adeus, Emmanuelle (1977)
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/156123.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Paraíso Azul (1982)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/e4EMF7VKrDpMKyBXVO1elMZdWKP.jpg" group-title="PEDIDOS",Paraíso Azul (1982)
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/156124.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Três Dias e Uma Vida (2019) LEG" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pdBLfn0oTOa56828eTMaXnhOZSx.jpg" group-title="PEDIDOS",Três Dias e Uma Vida (2019) LEG
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/156125.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Rosas Selvagens (1994) LEG" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/drigVgAFI9aFnYBbaH5MSWhI8fs.jpg" group-title="PEDIDOS",Rosas Selvagens (1994) LEG
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/156126.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Gaydar (2018) LEG" tvg-logo="https://media.fstatic.com/lsZwP3fSytuDBbBpSiTJhennGZI=/210x312/smart/filters:format(webp)/media/movies/covers/2018/04/1_2_3_pLjjlNf.jpg" group-title="PEDIDOS",Gaydar (2018) LEG
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/156127.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Back to Black (2024) LEG CAM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xHQEeUT3Ac4fTY72UeNrI75xLtE.jpg" group-title="NOS CINEMAS",Back to Black (2024) LEG CAM
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/156128.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Vanilla Sky (2001)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2nyj8JzNbsUY7tSzkDwFndU4bN5.jpg" group-title="PEDIDOS",Vanilla Sky (2001)
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/156135.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Os Escritos Secretos (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nSCS70pAmx55ViQvvzokWdzUzBi.jpg" group-title="PEDIDOS",Os Escritos Secretos (2017)
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/156136.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mais Que o Acaso (2000)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kA2MhMSwcXQLll54UGH2mC8mTAc.jpg" group-title="PEDIDOS",Mais Que o Acaso (2000)
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/156137.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Final: Caos em Wembley (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qtEHY76orIB10WODa7LbZeZGOfr.jpg" group-title="LANÇAMENTOS 2024",A Final: Caos em Wembley (2024)
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/156142.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Anel Maldito (1986)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sVY1TUU0uktvkRHLlTpiTDeit8.jpg" group-title="PEDIDOS",O Anel Maldito (1986)
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/156143.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ICHI (2008) LEG" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wFW95MXEGRNfh34axlNLW4J8ntL.jpg" group-title="PEDIDOS",ICHI (2008) LEG
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/156144.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Tetsuo: O Homem de Ferro (1989) LEG" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zEzJP8F9EawE1FQySR6ppCyAEX.jpg" group-title="PEDIDOS",Tetsuo: O Homem de Ferro (1989) LEG
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/156145.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Davi: Um Cara Comum da Bahia (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hoLltWSfNbH3erey3tWd9Xp81TY.jpg" group-title="LANÇAMENTOS 2024",Davi: Um Cara Comum da Bahia (2024)
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/156149.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Garotas em Fuga (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kWJXbCDnbZ3dptB1jibZBraqmRL.jpg" group-title="LANÇAMENTOS 2024",Garotas em Fuga (2024)
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/156152.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Colateral (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fbtkwCWA0hk2zTZLuj6Jf99yvVE.jpg" group-title="LANÇAMENTOS 2024",Colateral (2024)
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/156153.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Uma Pitada de Amor (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pWwac17q2XEl62X3iAtg2SUMf9J.jpg" group-title="PEDIDOS",Uma Pitada de Amor (2019)
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/156162.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Último Sol (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/t9X1KTfm09AJj4r6lQJkfNccPP2.jpg" group-title="PEDIDOS",O Último Sol (2021)
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/156163.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Triângulo da Morte (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/it9D3yvCyAmNfqp6zz9lhh4dR97.jpg" group-title="PEDIDOS",O Triângulo da Morte (2021)
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/156164.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Som da Juventude (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hgT7TIht1PlpRSioRHkhDBUArsN.jpg" group-title="PEDIDOS",O Som da Juventude (2022)
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/156165.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Amor à Venda (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9NKPk1hk27BUWprS6PLAYJjfDMF.jpg" group-title="PEDIDOS",Amor à Venda (2021)
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/156166.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Mãe da Noiva (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mp5L7Zw6Sq9JWkFMP9YYHPGFDnr.jpg" group-title="LANÇAMENTOS 2024",A Mãe da Noiva (2024)
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/156167.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Subterrâneo (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dnuAR8YNBwjTAeEtM62892pHjJg.jpg" group-title="PEDIDOS",Subterrâneo (2021)
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/156168.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Uma Vida: A História de Nicholas Winton (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/o65cLhzXPp9nBb5RvKRqLfZiMcH.jpg" group-title="LANÇAMENTOS 2023",Uma Vida: A História de Nicholas Winton (2023)
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/156169.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Um Difícil Recomeço (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rHKV2DloQT8Bwj59g1zJplBZ0qS.jpg" group-title="PEDIDOS",Um Difícil Recomeço (2022)
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/156170.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Queimando Tudo (1978)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7OjE3uWqwX5YiRRkuWT7inclQyx.jpg" group-title="PEDIDOS",Queimando Tudo (1978)
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/156171.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Wanted Man: Marcado Para Morrer (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6zgG1eNiQ4DrbYDIgEwNmDYRdrg.jpg" group-title="LANÇAMENTOS 2024",Wanted Man: Marcado Para Morrer (2024)
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/156177.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Planeta dos Macacos: O Reinado (2024) LEG CAM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dzDK2TMXsxrolGVdZwNGcOlZqrF.jpg" group-title="NOS CINEMAS",Planeta dos Macacos: O Reinado (2024) LEG CAM
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/156182.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Uma Festa de Arromba 3 (1994) LEG" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3RkMWihHTMKYeUxGeQglCMiWSsp.jpg" group-title="PEDIDOS",Uma Festa de Arromba 3 (1994) LEG
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/156189.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Señora Influencer (2023) LEG" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gtElxwXeIUeWx3aXvyRhIJSrARu.jpg" group-title="LANÇAMENTOS 2023",Señora Influencer (2023) LEG
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/156223.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Vida dos Leopardos (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/d3aCqzYM72z0eI9uKmJjwElNlB1.jpg" group-title="LANÇAMENTOS 2024",A Vida dos Leopardos (2024)
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/156235.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Entregador (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ghnjd9iFvGDaYjEMzcLzKxULAmG.jpg" group-title="LANÇAMENTOS 2024",O Entregador (2024)
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/156236.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Pulsação (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/i4Ei27yjjkgmx9C3ZNx0IXGAdll.jpg" group-title="LANÇAMENTOS 2023",Pulsação (2023)
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/156265.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Guardião das Borboletas (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/l2uAsduoQFpb6ues8T1LLrpyd4k.jpg" group-title="LANÇAMENTOS 2024",O Guardião das Borboletas (2024)
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/156266.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Gonzaga: De Pai pra Filho (2012)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8LRWQiq43cIc03sC5ZLGB8zYrjU.jpg" group-title="PEDIDOS",Gonzaga: De Pai pra Filho (2012)
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/156271.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Breakin' (1984) LEG" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/78XIs8NFqg5qecomXmFbQEGeYbW.jpg" group-title="PEDIDOS",Breakin' (1984) LEG
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/156272.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Shaft (1971)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yJChPuu2V339IiDPQDHeIh1SYpA.jpg" group-title="PEDIDOS",Shaft (1971)
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/156273.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Cinema, Aspirinas e Urubus (2005)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dJc05ctqZrffQPQ2vFKjjRpIfFE.jpg" group-title="PEDIDOS",Cinema, Aspirinas e Urubus (2005)
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/156274.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Godzilla e Kong: O Novo Império (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kO6K9zEsKhNyqcrdGTSqAI6jrie.jpg" group-title="LANÇAMENTOS 2024",Godzilla e Kong: O Novo Império (2024)
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/156280.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Podcast (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yrURBoc5zbeCuuilAJsmPcoBmqB.jpg" group-title="LANÇAMENTOS 2023",O Podcast (2023)
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/156281.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Planeta dos Macacos: O Reinado (2024) CAM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xncPDbNFr9YnZqaB6Ht9uItaoZO.jpg" group-title="NOS CINEMAS",Planeta dos Macacos: O Reinado (2024) CAM
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/156288.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Coração de Fogo (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oVKmCtc7VhYsNKlhmNNlJeQgIF3.jpg" group-title="PEDIDOS",Coração de Fogo (2015)
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/156295.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Terrifier: O Início (2013)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sSlX2fYQ7FVauJQ7f5pMVcuBCHE.jpg" group-title="PEDIDOS",Terrifier: O Início (2013)
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/156296.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Fundação de uma República (2009) LEG" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6YuCKIsTAPgrOx9CEYZYgdRhCAZ.jpg" group-title="PEDIDOS",A Fundação de uma República (2009) LEG
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/156297.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Antes da Dinastia (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bRYMdgIft5H8dOdDLkjoKOcS8Zg.jpg" group-title="LANÇAMENTOS 2023",Antes da Dinastia (2023)
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/156298.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Raposa de Fogo (1982)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hG8cvRON30sWwiCUibcv2TboQ9A.jpg" group-title="PEDIDOS",Raposa de Fogo (1982)
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/156299.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Perseguidor Implacável (1971)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uIklSP4Yu0ij7TpXyaYWTbmTqsI.jpg" group-title="PEDIDOS",Perseguidor Implacável (1971)
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/156300.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Santuário (2011)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lt8nRn5GGYfcMccmy0HjSbwj7U9.jpg" group-title="PEDIDOS",Santuário (2011)
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/156301.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Meu pai, um estranho (1970) LEG" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dlv1zm2HNC5ZjqHlv5wlahY7Muj.jpg" group-title="PEDIDOS",Meu pai, um estranho (1970) LEG
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/156302.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Saló ou os 120 Dias de Sodoma (1976) LEG" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6DEYidwZSfyApwgYSq8whLsLPbL.jpg" group-title="PEDIDOS",Saló ou os 120 Dias de Sodoma (1976) LEG
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/156303.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Partida (2008)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dX9S1p90hKkBtZTibt1DACvcMwe.jpg" group-title="PEDIDOS",A Partida (2008)
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/156304.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Amarcord (1973) LEG" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cRqiuvomxe1ZxXaqsYHBg6PXcyK.jpg" group-title="PEDIDOS",Amarcord (1973) LEG
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/156305.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ninguém Pode Saber (2004) LEG" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/d51pDJcztlEoVSNxknyD7n0K6Xh.jpg" group-title="PEDIDOS",Ninguém Pode Saber (2004) LEG
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/156306.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dona Lurdes: O Filme (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gKS02ZDoNbEPY1mMtnj1iwJJIxE.jpg" group-title="LANÇAMENTOS 2024",Dona Lurdes: O Filme (2024)
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/156307.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Vingança Está na Moda (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fXNobPTdS2sDUTFGd6j4A7bluog.jpg" group-title="PEDIDOS",A Vingança Está na Moda (2015)
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/156308.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Instinto Materno (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1tIPZI7UP2Zg5ThqJU3Pvl0W0az.jpg" group-title="LANÇAMENTOS 2024",Instinto Materno (2024)
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/156312.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Caça ao Terrorista (1997)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pyThPaAmtjvssEgPgSoyAaqEIy2.jpg" group-title="PEDIDOS",Caça ao Terrorista (1997)
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/156330.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sting (2024) LEG" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lhaUoKVBAWzAcKeHtv58Dff4BIh.jpg" group-title="LANÇAMENTOS 2024",Sting (2024) LEG
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/156331.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Tarzan e a Fonte Mágica (1949) LEG" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lMQabQlULUogQbJiYmtxlKcfsK3.jpg" group-title="PEDIDOS",Tarzan e a Fonte Mágica (1949) LEG
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/156332.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Casseta & Planeta: A Taça do Mundo é Nossa! (2003)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fRZ7dqvQCOiHvMruI7dYPomd7X4.jpg" group-title="PEDIDOS",Casseta & Planeta: A Taça do Mundo é Nossa! (2003)
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/156333.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Hook: A Volta do Capitão Gancho (1991)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3xvJUSXz9wo97kvgABUDgBCsUNp.jpg" group-title="PEDIDOS",Hook: A Volta do Capitão Gancho (1991)
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/156334.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Jovens Canibais (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cor72PrsyggiVrOKiCt8ST4rwEx.jpg" group-title="PEDIDOS",Jovens Canibais (2019)
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/156335.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Partiu América (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/56WyAV6yAZeZBOXgmFZ7agste7R.jpg" group-title="LANÇAMENTOS 2024",Partiu América (2024)
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/156356.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Última Sessão de Freud (2023) LEG" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4wkIIqpSf6smIbFyBOoMoYUn34E.jpg" group-title="LANÇAMENTOS 2023",A Última Sessão de Freud (2023) LEG
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/156357.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Hoje Você Morre (2005)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fSL56vXRp4Qh23vXPiAhJMFKZgB.jpg" group-title="PEDIDOS",Hoje Você Morre (2005)
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/156358.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A História de Elza (1966)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gDPYLOV5zvRTIOip8pk0IuIRyXQ.jpg" group-title="PEDIDOS",A História de Elza (1966)
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/156359.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Lenda dos Anões Mágicos (1959)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jHW6Txi5Ya2H93Xa3ioPY796aDz.jpg" group-title="PEDIDOS",A Lenda dos Anões Mágicos (1959)
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/156360.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mexida (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yzwERLkcxNh9uve42IAUBHckU0s.jpg" group-title="LANÇAMENTOS 2024",Mexida (2024)
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/156372.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Um Punhado de Bravos (1945)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3hq4VhEMseKMZuNUaSExDyqGhja.jpg" group-title="PEDIDOS",Um Punhado de Bravos (1945)
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/156389.mp4
+#EXTINF:-1 tvg-id="" tvg-name="As Fábulas Negras (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vgbDS2j5HgJU9PzN42X2uk5iZzm.jpg" group-title="PEDIDOS",As Fábulas Negras (2015)
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/156390.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Suicide room (2011) LEG" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pLJJmG8Jd0mn9HbrdubA7iW1MgO.jpg" group-title="PEDIDOS",Suicide room (2011) LEG
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/156391.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Retrato do Amor (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kbz3Opu6wVRFKt4xXBwBnjGqapE.jpg" group-title="PEDIDOS",O Retrato do Amor (2022)
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/156392.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Retrato do Amor (2019) LEG" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ulbSZdUokm6Gwx0WKrQz0ARMEve.jpg" group-title="PEDIDOS",Retrato do Amor (2019) LEG
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/156393.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Um Copo de Cólera (1999)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pNtlhCLFZhJgbojAENH6giIe5Uh.jpg" group-title="PEDIDOS",Um Copo de Cólera (1999)
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/156394.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Beatles: Os Reis do iê iê iê (1964) LEG" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7ZKn8R4Wqvz9zx4Q4dDO30l5jXQ.jpg" group-title="PEDIDOS",Beatles: Os Reis do iê iê iê (1964) LEG
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/156395.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Réu Primário (1997)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9FFUIycnveVyGrUWuK3HzPzKF4M.jpg" group-title="PEDIDOS",Réu Primário (1997)
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/156398.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Último Golpe (2014)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kAGdrRbojsLZLrcTVreNO072tND.jpg" group-title="PEDIDOS",O Último Golpe (2014)
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/156406.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Garota de Miller (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aWEZ0c82BZJUf78QHM4YLuZ9SDj.jpg" group-title="LANÇAMENTOS 2024",A Garota de Miller (2024)
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/156411.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Clã das Adagas Voadoras (2004)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/21HSZq5KkA4QhgE88dwfHGzZg97.jpg" group-title="PEDIDOS",O Clã das Adagas Voadoras (2004)
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/156418.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Clã das Adagas (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hqqrrj0fxt8RIK3aiijoVrR7g4a.jpg" group-title="PEDIDOS",O Clã das Adagas (2017)
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/156419.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Circo dos Horrores (1960)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9sfshfTBXOFOAutfceewC6Rvgxq.jpg" group-title="PEDIDOS",Circo dos Horrores (1960)
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/156420.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Capitão Orgazmo (1998)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/irvFBOc33CHsioU6hqcu8ExymEa.jpg" group-title="PEDIDOS",Capitão Orgazmo (1998)
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/156421.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Águia De Fogo - O Filme (1984)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7oxBfH1k2OvMcByjoIji9VQnWg7.jpg" group-title="PEDIDOS",Águia De Fogo - O Filme (1984)
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/156422.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Missão Alien (1988)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/r1blhrOgBYaxZRIjqlNPf6rGHvN.jpg" group-title="PEDIDOS",Missão Alien (1988)
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/156423.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Salário do Medo (1953) LEG" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gcEM5PbzOFDzcClEO9fIiKDGlTe.jpg" group-title="PEDIDOS",O Salário do Medo (1953) LEG
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/156424.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Float (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kPpaxvoQJ2xomVtirSqbDDNl79T.jpg" group-title="LANÇAMENTOS 2024",Float (2024)
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/156425.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Santo Homem (1998)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lpmNcCxjHht3OjIXdxHYljHMkHp.jpg" group-title="PEDIDOS",Santo Homem (1998)
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/156426.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Kill Shot (2023) LEG" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8tmVuix29w6RH2T09D0crzXMQj1.jpg" group-title="LANÇAMENTOS 2023",Kill Shot (2023) LEG
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/156427.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ondine (2009) LEG" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/m1aFFmukTBc0cII02cx6QMblJSC.jpg" group-title="PEDIDOS",Ondine (2009) LEG
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/156428.mp4
+#EXTINF:-1 tvg-id="" tvg-name="High School Band (2009)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/164a9H7TKMtVYjA4g9uA3CcdZbJ.jpg" group-title="PEDIDOS",High School Band (2009)
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/156437.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Dublê (2024) CAM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7AkiDy6DVlfhJusglf6tvifX6dB.jpg" group-title="NOS CINEMAS",O Dublê (2024) CAM
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/156444.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Coragem Sem Limites (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1gWFA7LTr17grGvR4JoVhtjbVpr.jpg" group-title="PEDIDOS",Coragem Sem Limites (2019)
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/156456.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Poder Policial (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/occqDquXrdeai69INJns50Nn5tp.jpg" group-title="LANÇAMENTOS 2024",Poder Policial (2024)
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/156457.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Thelma, O Unicórnio (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yutiEZ7taGDNau2jGjKIdDwQpDw.jpg" group-title="LANÇAMENTOS 2024",Thelma, O Unicórnio (2024)
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/156458.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Rivais (2024) LEG" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/w1j3evHiwrGiQ6e9h1l9r66uo29.jpg" group-title="LANÇAMENTOS 2024",Rivais (2024) LEG
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/156459.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Príncipe das Marés (1991)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2MKF3U97WI1pBNWiSMtpxSwExl6.jpg" group-title="PEDIDOS",O Príncipe das Marés (1991)
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/156468.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Loucuras em Plena Madrugada (1980)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/m8v4GTKjmbzBBmSSGNuhrO4dAxS.jpg" group-title="PEDIDOS",Loucuras em Plena Madrugada (1980)
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/156469.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O chefe (2021) LEG" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vPiCOOoNJGXZDIAbxHWYO2hh1BA.jpg" group-title="PEDIDOS",O chefe (2021) LEG
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/156470.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Cavalgada dos Proscritos (1980)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sLKCwzoMYgpoeb8pgVwQiTpKVfa.jpg" group-title="PEDIDOS",Cavalgada dos Proscritos (1980)
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/156471.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Visões (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ri54sRKimZO0HmzjKnyzUshGZDK.jpg" group-title="LANÇAMENTOS 2023",Visões (2023)
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/156472.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Mulher Mais Procurada da América (2012)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zfiG5RguvKXBnouQUhFCc7bNXbi.jpg" group-title="PEDIDOS",A Mulher Mais Procurada da América (2012)
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/156473.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sem Sentido (1998)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/j2vhW8rbydpIKpJMb0yfQUTXcvB.jpg" group-title="PEDIDOS",Sem Sentido (1998)
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/156474.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Belas e Mimadas (2006)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dqmWcg7NHzlDLAHIWYptFowe0zf.jpg" group-title="PEDIDOS",Belas e Mimadas (2006)
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/156475.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Beatles - Help! (1965) LEG" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nLvgIB3bVb8jyhls5W6B74Xt4Ei.jpg" group-title="PEDIDOS",Beatles - Help! (1965) LEG
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/156476.mp4
 
