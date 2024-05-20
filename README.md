@@ -16,72 +16,8 @@ https://www.youtube.com/channel/UCojJlqr-L9290l5D63SXTzg?view_as=public
 #EXTINF:-1 tvg-logo="http://i.imgur.com/luqePRJ.png" group-title="Informações da Lista",By RAMALHOTV 
 https://www.youtube.com/channel/UCojJlqr
 
- #EXTM3U
  
-#EXTINF:-1 tvg-id="" tvg-name=" BRASIL " tvg-logo="https://cld.pt/dl/download/a31e53ca-3048-4f38-bcf0-15796a58ffa6/Brasil.jpg" grupo -title="",[B][COLOR limão verde]===== BRA[/COLOR][COLOR amarelo]SIL [COLOR limão verde][/COLOR][COLOR amarelo] =====[/B][ /COR]
-plugin://plugin.video.f4mTester/?name=RAMALHOTV&streamtype=TSDOWNLOADER&url=http://letmein.fun:8080/s
-xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
-#EXTINF:-1 tvg-id="" tvg-logo="https://cld.pt/dl/download/dced6044-624e-462e-9299-f08cc7c02a6a/actualizado.jpg" tvg-logo="" grupo- title="",[B][COLOR limão verde]===== [/COLOR][COLOR amarelo] ATUALIZADO EM 1.05.20[/COLOR][COLOR limão verde] =====[/B][/COLOR ]
-plugin://plugin.video.f4mTester/?name=RAMALHOTV&streamtype=HLSRETRY&url=http://orbit-iptv.com:2500/live
-xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
  
-
-#E#EXTINF:-1 tvg-logo="http://i.imgur.com/Jotugf0.png" group-title="", [B][COLOR limegreen]ALADO[/B][/COLOR] SBT HD 720p https://evpp.mm.uol.com.br/ne10/ne10_720.sdp/chunklist_w694363211.m3u8
-#EXTINF:-1, [B][COLOR limão ]RamalhoIPTV[/B][/COLOR][B][COLOR vermelho] [/B][/COLOR]  SBT
-http://evpp.mm.uol.com.br/ne10/ne10.smil/playlist.m3u8
-#EXTINF:-1, [B][COLOR limão ]RamalhoIPTV[/B][/COLOR][B][COLOR vermelho] [/B][/COLOR]  SBT PI HD
-http://192.99.46.182:1935/pioneira-tv3/pioneira-tv3/playlist.m3u8
-#EXTINF:-1, [B][COLOR limão ]RamalhoIPTV[/B][/COLOR][B][COLOR vermelho] [/B][/COLOR]  SBT PE HD
-http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w130916676_b216000_sleng.m3u8
-#EXTINF:-1, [B][COLOR limão ]RamalhoIPTV[/B][/COLOR][B][COLOR vermelho] [/B][/COLOR]  SBT PE HD
-http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w165930016_b216000_sleng.m3u8
-#EXTINF:-1, [B][COLOR limão ]RamalhoIPTV[/B][/COLOR][B][COLOR vermelho] [/B][/COLOR]  SBT MA
-http://difusorama.zoeweb.tv:1935/z437-live/stream/chunklist_w1260675550.m3u8
-#EXTINF:-1, [B][COLOR limão ]RamalhoIPTV[/B][/COLOR][B][COLOR vermelho] [/B][/COLOR]  REDE TV SP
-http://evpp.mm.uol.com.br/redetv1/redetv1/chunklist_w304668891.m3u8
-#EXTINF:-1, [B][COLOR limão ]RamalhoIPTV[/B][/COLOR][B][COLOR vermelho] [/B][/COLOR]  REDE TV SD
-http://evpp.mm.uol.com.br/redetv1/redetv1/chunklist_w1537397908.m3u8
-#EXTINF:-1,[B][COLOR limão ]RamalhoIPTV[/B][/COLOR][B][COLOR vermelho] [/B][/COLOR] REDE TV HD
-http://evpp.mm.uol.com.br:1935/redetv1/redetv1/playlist.m3u8
-#EXTINF:-1, [B][COLOR limão ]RamalhoIPTV[/B][/COLOR][B][COLOR vermelho] [/B][/COLOR]  REDE TV RJ
-http://evpp.mm.uol.com.br:1935/redetv2/redetv2/playlist.m3u8
-#EXTINF:0 tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/sbt-logo-1.png" group-title="CANAIS ABERTOS", [B][COLOR limão ]RamalhoIPTV[/B][/COLOR][B][COLOR vermelho] [/B][/COLOR] SBT (PE)
-http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w199492672_b216000_sleng.m3u8
-
-#EXTINF:0 tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/sbt-logo-1.png" group-title="CANAIS ABERTOS", [B][COLOR limão ]RamalhoIPTV[/B][/COLOR][B][COLOR vermelho] [/B][/COLOR] SBT (CE)
-https://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w1147872746_b216000_sleng.m3u8
-
-#EXTINF:0 tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/sbt-logo-1.png" group-title="CANAIS ABERTOS", [B][COLOR limão ]RamalhoIPTV[/B][/COLOR][B][COLOR vermelho] [/B][/COLOR] SBT (PI)
-http://192.99.46.182:1935/pioneira-tv3/pioneira-tv3/playlist.m3u8
-
-#EXTINF:0 tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/sbt-logo-1.png" group-title="CANAIS ABERTOS", [B][COLOR limão ]RamalhoIPTV[/B][/COLOR][B][COLOR vermelho] [/B][/COLOR] SBT (MA)
-http://difusorama.zoeweb.tv:1935/z437-live/stream/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="", [B][COLOR limão ]RamalhoIPTV[/B][/COLOR][B][COLOR vermelho] [/B][/COLOR]  SBT
-http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w902022027_b216000_sleng.m3u8#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i .imgur.com/Wajw4nv.png" group-title="", [B][COLOR limão ]RamalhoIPTV[/B][/COLOR][B][COLOR vermelho] [/B][/COLOR]  SBT 
-https://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w654628617_b216000_sleng.m3u8?fluxustv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/4/41/Logotipo_do_SBT.svg/800px-Logotipo_do_SBT. png" group-title="",[B][COLOR limão ]RamalhoIPTV[/B][/COLOR][B][COLOR vermelho] [/B][/COLOR]  SBT São Paulo
-http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w1279440291_b216000_sleng.m3u8
-#EXTINF:-1, [B][COLOR limão ]RamalhoIPTV[/B][/COLOR][B][COLOR vermelho] [/B][/COLOR]  SBT PE HD
-http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w165930016_b216000_sleng.m3u8
-
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/1/1d/LOGO_REDETV%21.png/200px-LOGO_REDETV%21.png" group-title="CANAIS ABERTOS ", [B][COLOR limão]ALADO[/B][/COLOR][B][COLOR vermelho] [/B][/COLOR] REDE TV
-https://evpp.mm.uol.com.br/redetv1/redetv1/chunklist_w1209374997.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/1d/LOGO_REDETV%21.png" group-title= "", [B][COLOR ciano]ALADO[/B][/COLOR] [B][COLOR rosa] [/B][/COLOR] Rede TV
-http://evpp.mm.uol.com.br/redetv1/redetv1/chunklist_w1483436880.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/1/1d/LOGO_REDETV%21.png/200px- LOGO_REDETV%21.png" group-title="", [B][COLOR ciano]ALADO[/B][/COLOR] [B][COLOR rosa] [/B][/COLOR] Rede TV (Opt-1 )
-https://evpp.mm.uol.com.br/redetv1/redetv1/chunklist_w1209374997.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="", [B][COLOR ciano]ALADO[/B][/COLOR] [B][ COR rosa] [/B][/COLOR] Rede TV (Opt-2)
-http://evpp.mm.uol.com.br/redetv1/redetv1/chunklist_w674014198.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/MEBQV6z.png" group-title="", [B][COLOR cyan] ALADO[/B][/COLOR] [B][COLOR rosa] [/B][/COLOR] Rede TV (Opt-3)
-http://evpp.mm.uol.com.br/redetv1/redetv1/chunklist_w1537397908.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/Jotugf0.png" group-title="", [B][COLOR limegreen]ALADO[/B][/COLOR] SBT HD 720p EDUCAÇAO FISICA
-https://evpp.mm.uol.com.br/ne10/ne10_720.sdp/chunklist_w694363211.m3u8
-
-#EXTINF:-1, [B][COLOR aqua] ALADO[/B][/COLOR] [B][COLOR lime] TV [/B][/COLOR] CINE SKY
-http://stmv2.srvstm.com:1935/tvjsid/tvjsid/playlist.m3u8?PEDROJUNIORTUTORIAIS
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.assistirtvonlinegratis.com.br/wp-content/uploads/2018/07/cine-sky.png" group-title="", [B][COLOR ciano]ALADO[/B][/COLOR] [B][COLOR rosa] [/B][/COLOR] Cine Sky
-http://stmv2.srvstm.com:1935/tvjsid/tvjsid/playlist.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="CINE SKY 1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/Nuevo-logo-Sky-Airline.png" group-title="CINE SKY",CINE SKY 1 HD
 http://goal.hostingiscoremm9.xyz:2052/TouroVod-VeW4mnwgG8/3RxTG90GXe/103737
 #EXTINF:-1 tvg-id="" tvg-name="CINE SKY 2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/Nuevo-logo-Sky-Airline.png" group-title="CINE SKY",CINE SKY 2 HD
