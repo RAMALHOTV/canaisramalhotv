@@ -14367,6 +14367,6 @@ http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/15647
 http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/156474.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Belas e Mimadas (2006)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dqmWcg7NHzlDLAHIWYptFowe0zf.jpg" group-title="PEDIDOS",Belas e Mimadas (2006)
 http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/156475.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Beatles - Help! (1965) LEG" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nLvgIB3bVb8jyhls5W6B74Xt4Ei.jpg" group-title="PEDIDOS",Beatles - Help! (1965) LEG
-http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/156476.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Furiosa: Uma Saga Mad Max (2024) CAM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/j4KUED5qQCpmyz1Mr77coJCrndq.jpg" group-title="NOS CINEMAS",Furiosa: Uma Saga Mad Max (2024) CAM
+http://goal.hostingiscoremm9.xyz:2052/movie/TouroVod-VeW4mnwgG8/3RxTG90GXe/157107.mp4
 
