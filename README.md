@@ -4,15 +4,15 @@
  
 ################################################################################# Informações da Lista
  
-#EXTINF:-1 tvg-logo="http://i.imgur.com/4QnsDMD.png" group-title="Informações da Lista",
+#EXTINF:-1 tvg-logo="http://i.imgur.com/4QnsDMD.png" group-title="Informações da Lista",Gostou usse nosso addon 
 https://www.youtube.com/channel/UCojJlqr-
  
-#EXTINF:-1 tvg-logo="http://i.imgur.com/5zE1k8M.png" group-title="Informações da Lista",
+#EXTINF:-1 tvg-logo="http://i.imgur.com/5zE1k8M.png" group-title="Informações da Lista",addon RamalhoIPTV
 https://www.youtube.com/channel/UCojJlqr
  
 #EXTINF:-1 tvg-logo="http://i.imgur.com/OalUKZI.png" group-title="Informações da Lista",Atualizado:18/06/2024
 https://www.youtube.com/channel/
-#EXTINF:-1 tvg-logo="http://i.imgur.com/luqePRJ.png" group-title="Informações da Lista",By RAMALHOTV 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/luqePRJ.png" group-title="Informações da Lista",By RamalhoIPTV
 https://www.youtube.com/channel/UCojJlqr
 
 
